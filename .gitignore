@@ -104,3 +104,24 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# --- LITHOSTRIDE ---
+
+# IDEs (VS Code settings may be versioned later via negation rules)
+.idea/
+.vscode/
+*.code-workspace
+
+# Local development saves (real saves live in Application.persistentDataPath)
+/[Ss]aves/
+
+# OS and editor temp files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+
+# Secrets
+.env
+.env.*
