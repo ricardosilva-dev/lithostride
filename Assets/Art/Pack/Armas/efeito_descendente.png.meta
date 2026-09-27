@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 29d1cab4f7c7e254ca3adf995f4c8cbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8700556568592182342
+    second: efeito_descendente_0
+  - first:
+      213: 896033478417193754
+    second: efeito_descendente_1
+  - first:
+      213: 30266514727844933
+    second: efeito_descendente_2
+  - first:
+      213: -980476322496453442
+    second: efeito_descendente_3
+  - first:
+      213: 7925302527174739624
+    second: efeito_descendente_4
+  - first:
+      213: 7129441022932349124
+    second: efeito_descendente_5
+  - first:
+      213: -1507984591189387813
+    second: efeito_descendente_6
+  - first:
+      213: -1306015073868526795
+    second: efeito_descendente_7
+  - first:
+      213: 4354007212284844621
+    second: efeito_descendente_8
+  - first:
+      213: 2048312117893183749
+    second: efeito_descendente_9
+  - first:
+      213: 8101444954072624423
+    second: efeito_descendente_10
+  - first:
+      213: 2154380971923026319
+    second: efeito_descendente_11
+  - first:
+      213: -420674712382321475
+    second: efeito_descendente_12
+  - first:
+      213: -6795308598895954286
+    second: efeito_descendente_13
+  - first:
+      213: 477001847312142985
+    second: efeito_descendente_14
+  - first:
+      213: -6621901605569797017
+    second: efeito_descendente_15
+  - first:
+      213: -2753392968933044498
+    second: efeito_descendente_16
+  - first:
+      213: -4526095908299314406
+    second: efeito_descendente_17
+  - first:
+      213: -8027460242230887421
+    second: efeito_descendente_18
+  - first:
+      213: -6643719792549052339
+    second: efeito_descendente_19
+  - first:
+      213: 2390509842414818943
+    second: efeito_descendente_20
+  - first:
+      213: 5781053691744318449
+    second: efeito_descendente_21
+  - first:
+      213: -6447860816836860298
+    second: efeito_descendente_22
+  - first:
+      213: -7565754486733759904
+    second: efeito_descendente_23
+  - first:
+      213: 884324714353312395
+    second: efeito_descendente_24
+  - first:
+      213: 8763230347094340298
+    second: efeito_descendente_25
+  - first:
+      213: 5510437332858028326
+    second: efeito_descendente_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: efeito_descendente_00
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 22
+        height: 35
+      alignment: 9
+      pivot: {x: 0.29545453, y: 0.32857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e69fd5dda83517007d35f22fdfb87e
+      internalID: -1687999589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_descendente_01
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 7
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.16666667, y: 0.18333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8278dc078af159d4b07c2aaf00f72e14
+      internalID: -1111707473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_descendente_02
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 8
+        width: 24
+        height: 29
+      alignment: 9
+      pivot: {x: 0.27083334, y: 0.67241377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3fa42c37c911c17674c743c2dc5ff1
+      internalID: 1463206248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_descendente_03
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 6
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.325, y: 0.66129035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce5ac7dcb55d9832de0194dabd11d86
+      internalID: 1641131126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_descendente_04
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 9
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.42, y: 0.6964286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d06e214ec128edf9091d498f6ca7cc5
+      internalID: -1648919328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_descendente_05
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 10
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0.32608697, y: 0.6481481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ebc9db0bf4a4a6546e0f0a981a9414
+      internalID: -1825978304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_descendente_06
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 9
+        width: 23
+        height: 28
+      alignment: 9
+      pivot: {x: 0.19565217, y: 0.30357143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e772e79bec480ddc386bd259087bf8
+      internalID: 1200308773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_descendente_07
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 9
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.375, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe22f95b0ef1d4745f04aa14e9f80a4
+      internalID: 554742877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c5d2cadfe8f3a5549ba10cd0cef516c8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      efeito_descendente_00: -1687999589
+      efeito_descendente_01: -1111707473
+      efeito_descendente_02: 1463206248
+      efeito_descendente_03: 1641131126
+      efeito_descendente_04: -1648919328
+      efeito_descendente_05: -1825978304
+      efeito_descendente_06: 1200308773
+      efeito_descendente_07: 554742877
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 0B985A485A848EDC8191AB4B092D0E16
+  assetBundleName: 
+  assetBundleVariant: 

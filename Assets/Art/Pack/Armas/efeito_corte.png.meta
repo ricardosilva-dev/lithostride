@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: bad8f5344919c9d429f98120421c8104
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4901121960954629747
+    second: efeito_corte_0
+  - first:
+      213: -1359148276352162586
+    second: efeito_corte_1
+  - first:
+      213: 8257240721439490822
+    second: efeito_corte_2
+  - first:
+      213: -7434826711004381942
+    second: efeito_corte_3
+  - first:
+      213: -2060471172806589836
+    second: efeito_corte_4
+  - first:
+      213: 1088602960062315260
+    second: efeito_corte_5
+  - first:
+      213: 1394248205608746572
+    second: efeito_corte_6
+  - first:
+      213: 5618747462763299258
+    second: efeito_corte_7
+  - first:
+      213: 8645472102270672093
+    second: efeito_corte_8
+  - first:
+      213: 6424751225128119141
+    second: efeito_corte_9
+  - first:
+      213: -4531951948196272150
+    second: efeito_corte_10
+  - first:
+      213: -5712866290970657994
+    second: efeito_corte_11
+  - first:
+      213: 548848583716410259
+    second: efeito_corte_12
+  - first:
+      213: 5611821024145243510
+    second: efeito_corte_13
+  - first:
+      213: 669495324616998459
+    second: efeito_corte_14
+  - first:
+      213: 88962480932457821
+    second: efeito_corte_15
+  - first:
+      213: -392034485130264461
+    second: efeito_corte_16
+  - first:
+      213: -461908876744745914
+    second: efeito_corte_17
+  - first:
+      213: -6517130717747702645
+    second: efeito_corte_18
+  - first:
+      213: 6104547344396096290
+    second: efeito_corte_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: efeito_corte_00
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.1521739, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615b569bc5ead755e3081c6b119609ad
+      internalID: 1478731525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_corte_01
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 9
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.75, y: 0.1590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53aa544e01a7a38f4c1cb74f4d67236d
+      internalID: -1043560575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_corte_02
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 7
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.76785713, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd80eb6bf02cfb47d2e4c517dc4ff796
+      internalID: 403830548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_corte_03
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 0.83928573, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf10fe8e131c9ffa1b33dff2ddd7b7c
+      internalID: 138992137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_corte_04
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 6
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.8333333, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036ebd13205ff33b5ebf38d2aa36468c
+      internalID: 2140692809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_corte_05
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 10
+        width: 30
+        height: 21
+      alignment: 9
+      pivot: {x: 0.85, y: 0.88095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5e60e98209442ae0be98216060fb6d
+      internalID: -867930452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_corte_06
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 9
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.83928573, y: 0.8863636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46764652d8029e9a4bba01f56537bb66
+      internalID: -411056405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_corte_07
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 9
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: 0.81578946, y: 0.84090906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075cee407b19dfa33288bc3ebc2cb76b
+      internalID: 2105537363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ad68d8b7dca501c4183fd3b17d99c311
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      efeito_corte_00: 1478731525
+      efeito_corte_01: -1043560575
+      efeito_corte_02: 403830548
+      efeito_corte_03: 138992137
+      efeito_corte_04: 2140692809
+      efeito_corte_05: -867930452
+      efeito_corte_06: -411056405
+      efeito_corte_07: 2105537363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: A7AC5E777FB49D18840EC8D5AAE62D4C
+  assetBundleName: 
+  assetBundleVariant: 

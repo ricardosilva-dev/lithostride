@@ -108,23 +108,25 @@
 
 ## Estado atual dos pacotes
 
-Inspeção realizada em 2026-09-23.
+Lido de `Packages/manifest.json` e `ProjectSettings/ProjectVersion.txt` em 2026-09-23.
 
-**O repositório ainda não contém um projeto Unity.** Não existem `Assets/` (além da estrutura de pastas criada nesta tarefa), `Packages/manifest.json` nem `ProjectSettings/ProjectVersion.txt`. Nenhum Unity Editor/Unity Hub foi encontrado nos caminhos padrão da máquina.
+**Engine:** Unity **6000.6.2f1**.
 
-Portanto, **nenhuma versão de engine ou pacote pôde ser detectada**, e nenhuma versão é registrada aqui.
+O projeto foi montado a partir do template **2D Cross-Platform** (`com.unity.template.2d-cross-platform-2d-7.0.0`), que no Unity 6 substitui o antigo "Universal 2D" e já traz URP 2D e Input System configurados. Ver [`SETUP_PROTOTIPO.md`](SETUP_PROTOTIPO.md).
 
-| Pacote desejado | Identificador esperado no manifest | Versão atual | Status | Ação futura recomendada |
-|---|---|---|---|---|
-| Universal Render Pipeline | `com.unity.render-pipelines.universal` | — | Ausente (sem projeto) | Criar projeto com o template **Universal 2D**, que já o inclui |
-| Input System | `com.unity.inputsystem` | — | Ausente (sem projeto) | Verificar após criação; instalar pelo Package Manager se faltar |
-| Tilemap | `com.unity.2d.tilemap` (+ `com.unity.2d.tilemap.extras`, opcional) | — | Ausente (sem projeto) | Incluído no template 2D; confirmar |
-| 2D Animation | `com.unity.2d.animation` | — | Ausente (sem projeto) | Incluído via `com.unity.feature.2d`; confirmar |
-| Cinemachine | `com.unity.cinemachine` | — | Ausente (sem projeto) | Instalar pelo Package Manager no primeiro marco |
-| TextMeshPro | `com.unity.ugui` (no Unity 6 o TMP faz parte do uGUI) | — | Ausente (sem projeto) | Confirmar após criação; importar TMP Essential Resources |
-| Integração VS Code | `com.unity.ide.visualstudio` | — | Ausente (sem projeto) | Confirmar após criação |
+| Pacote | Identificador | Versão | Origem |
+|---|---|---|---|
+| Universal Render Pipeline | `com.unity.render-pipelines.universal` | 17.6.0 | template |
+| Input System | `com.unity.inputsystem` | 1.19.0 | template |
+| Tilemap | `com.unity.2d.tilemap` / `.extras` | 1.0.0 / 9.0.0 | template |
+| 2D Animation | `com.unity.2d.animation` | 16.0.0 | template |
+| Cinemachine | `com.unity.cinemachine` | 3.1.7 | adicionado (autorizado na seção 2) |
+| TextMeshPro (via uGUI) | `com.unity.ugui` | 2.6.0 | template |
+| Integração VS Code | `com.unity.ide.visualstudio` | 2.0.26 | template |
 
-**Pendência principal:** criar o projeto Unity 6 LTS neste repositório (ver seção 17) e então atualizar esta tabela com as versões reais lidas de `Packages/manifest.json` e `ProjectSettings/ProjectVersion.txt`.
+O template também trouxe `com.unity.collab-proxy`, `com.unity.visualscripting`, `com.unity.timeline`, `com.unity.learn.iet-framework` e os pacotes 2D restantes (`psdimporter`, `spriteshape`, `aseprite`, `tooling`). Nenhum deles é usado pelo protótipo. **Removê-los é uma decisão em aberto** — não foram tirados porque enxugar o conjunto de pacotes exige autorização, e o padrão do template é a linha de base honesta.
+
+**Validação:** compilação sem erros nem avisos e geração das duas cenas em batchmode, em 2026-09-23.
 
 ---
 
@@ -518,7 +520,7 @@ Conteúdo do marco:
 - órgãos minerais completos;
 - assentamentos autônomos;
 - classes completas;
-- bosses;
+- bosses além do primeiro (o Predador das Costas, ver [decisão 0004](../Decisions/0004-primeiro-boss.md));
 - inventário;
 - crafting;
 - construção;

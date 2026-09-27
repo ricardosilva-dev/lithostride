@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 415f72de5d123e145a3c8d0969d1c6c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8890656561290130787
+    second: itens_chao_0
+  - first:
+      213: 1597120427758739768
+    second: itens_chao_1
+  - first:
+      213: 7815509300268886490
+    second: itens_chao_2
+  - first:
+      213: 3299520200203516914
+    second: itens_chao_3
+  - first:
+      213: 5465924460039023419
+    second: itens_chao_4
+  - first:
+      213: 7420077273954398482
+    second: itens_chao_5
+  - first:
+      213: 3347010079506496662
+    second: itens_chao_6
+  - first:
+      213: -2578711657598998384
+    second: itens_chao_7
+  - first:
+      213: -1901079048656524726
+    second: itens_chao_8
+  - first:
+      213: -4139327552287415553
+    second: itens_chao_9
+  - first:
+      213: 4540977156750180437
+    second: itens_chao_10
+  - first:
+      213: -3361692698825519561
+    second: itens_chao_11
+  - first:
+      213: 4241044412811563706
+    second: itens_chao_12
+  - first:
+      213: -6483952745267218165
+    second: itens_chao_13
+  - first:
+      213: -8837799926936339259
+    second: itens_chao_14
+  - first:
+      213: 1592329820060770861
+    second: itens_chao_15
+  - first:
+      213: 8997690677135332917
+    second: itens_chao_16
+  - first:
+      213: 5385845372991093127
+    second: itens_chao_17
+  - first:
+      213: 1997997237309756490
+    second: itens_chao_18
+  - first:
+      213: -8386091221492980544
+    second: itens_chao_19
+  - first:
+      213: -7809671142363478379
+    second: itens_chao_20
+  - first:
+      213: -7217726689350710042
+    second: itens_chao_21
+  - first:
+      213: -9195458675912202531
+    second: itens_chao_22
+  - first:
+      213: 5929185028275628624
+    second: itens_chao_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chao_grama_baixa_a
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 16
+        width: 25
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e0bc80bd5839993f747f7bba93bc51
+      internalID: -44870396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_grama_baixa_b
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 13
+        width: 24
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eff9a6b349dfd3a6480a2d5739fd506
+      internalID: -1552944332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_grama_media_a
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 10
+        width: 28
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496c75a7b7166145468dbfc20668eb82
+      internalID: 2089511627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_grama_media_b
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 13
+        width: 31
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597adf781c10a4b1b223ceb88f22a87c
+      internalID: 440189447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_grama_alta_a
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bea56c26abd5377e93e9a943b240d2d
+      internalID: -388381013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_grama_alta_b
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5
+        width: 33
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b36668cc050cc40bd4439a6099435b5
+      internalID: -95057334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_samambaia_a
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 7
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cb5482aaa325c2c628103a704036b2
+      internalID: -1264580379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_samambaia_b
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccf3c47766c0bd42e758deca6d1d18c
+      internalID: 1066392595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_broto_a
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 9
+        width: 27
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d4dc17539f4d7ae6a8190229bf6151
+      internalID: -1018072988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_broto_b
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 12
+        width: 30
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cc362b5e41689ca26f3b2f78ab8983
+      internalID: 1596297916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_arbusto_a
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 12
+        width: 30
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d76c9b7b236d2c1438e6232414a39fe
+      internalID: 144716181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_arbusto_b
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 6
+        width: 30
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee1211cd7e1811915b309c57e535401
+      internalID: -1438891459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_flores_a
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 10
+        width: 26
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926f0e3968981459cb2a3172dcdb1e51
+      internalID: -778273790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_flores_b
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 8
+        width: 28
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aad02e4cc6fd63c5e9b7450d1650ad
+      internalID: 1164064079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_cogumelo_a
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 12
+        width: 29
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4aacd5a898f5a1ac51feccfbf588df
+      internalID: 1891966471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_cogumelo_b
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 11
+        width: 28
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4f0080e5cddeb67d9fece9c7d027ac
+      internalID: -480102718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_pedra_musgo_a
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 14
+        width: 31
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c502cf8157257fe9e9ace4bd6163172
+      internalID: 1874052639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_pedra_musgo_b
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 11
+        width: 31
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72ecc2811941bb8f4942a6983d0f1b2
+      internalID: 992116489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_raizes_a
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 12
+        width: 27
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1756c6008f9d759e0180f5d02433711
+      internalID: 1962240628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_raizes_b
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 12
+        width: 27
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61398511cb7fa0cf61cdfca5a4e31f8
+      internalID: 1304610577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_galho_a
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 11
+        width: 31
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cc47fe95cb1af2a0155c2dec642550
+      internalID: -26962216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_galho_b
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 12
+        width: 31
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05c9f3815be83c458b0f919472d16fa
+      internalID: -949371128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_pedrinha_a
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 10
+        width: 30
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3295f8679e9ef283ff4d0fa08e2e7d8d
+      internalID: 1415455869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao_pedrinha_b
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 7
+        width: 33
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c79f7b84e7872a54e6087f4fb5746f4
+      internalID: 1014498842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: be20d2cd6f8190040824826b42e763bf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chao_arbusto_a: 144716181
+      chao_arbusto_b: -1438891459
+      chao_broto_a: -1018072988
+      chao_broto_b: 1596297916
+      chao_cogumelo_a: 1891966471
+      chao_cogumelo_b: -480102718
+      chao_flores_a: -778273790
+      chao_flores_b: 1164064079
+      chao_galho_a: -26962216
+      chao_galho_b: -949371128
+      chao_grama_alta_a: -388381013
+      chao_grama_alta_b: -95057334
+      chao_grama_baixa_a: -44870396
+      chao_grama_baixa_b: -1552944332
+      chao_grama_media_a: 2089511627
+      chao_grama_media_b: 440189447
+      chao_pedra_musgo_a: 1874052639
+      chao_pedra_musgo_b: 992116489
+      chao_pedrinha_a: 1415455869
+      chao_pedrinha_b: 1014498842
+      chao_raizes_a: 1962240628
+      chao_raizes_b: 1304610577
+      chao_samambaia_a: -1264580379
+      chao_samambaia_b: 1066392595
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: E7517F4EADF6E7BB0536C60E5D1C3CD6
+  assetBundleName: 
+  assetBundleVariant: 

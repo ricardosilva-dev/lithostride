@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: f9fbfab9d18800940bf40250fe4e0416
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6153278152934918293
+    second: efeito_explosao_0
+  - first:
+      213: -7516048070422957849
+    second: efeito_explosao_1
+  - first:
+      213: -1697706103193189659
+    second: efeito_explosao_2
+  - first:
+      213: -8519743353210233626
+    second: efeito_explosao_3
+  - first:
+      213: -4854284486325922704
+    second: efeito_explosao_4
+  - first:
+      213: -7978998358568108133
+    second: efeito_explosao_5
+  - first:
+      213: 5873584322294650865
+    second: efeito_explosao_6
+  - first:
+      213: -6807894502273956096
+    second: efeito_explosao_7
+  - first:
+      213: 8767576411308384697
+    second: efeito_explosao_8
+  - first:
+      213: -1743664475414110220
+    second: efeito_explosao_9
+  - first:
+      213: 986300767823130211
+    second: efeito_explosao_10
+  - first:
+      213: -4385464102938789622
+    second: efeito_explosao_11
+  - first:
+      213: 3114348049947165427
+    second: efeito_explosao_12
+  - first:
+      213: -3454465120828377671
+    second: efeito_explosao_13
+  - first:
+      213: -5758904236794609480
+    second: efeito_explosao_14
+  - first:
+      213: 410619765255536196
+    second: efeito_explosao_15
+  - first:
+      213: -4227851371482214249
+    second: efeito_explosao_16
+  - first:
+      213: 5884301204740124766
+    second: efeito_explosao_17
+  - first:
+      213: -31350212253001416
+    second: efeito_explosao_18
+  - first:
+      213: 520372717549445277
+    second: efeito_explosao_19
+  - first:
+      213: -1190478750785642849
+    second: efeito_explosao_20
+  - first:
+      213: -8032418555481301461
+    second: efeito_explosao_21
+  - first:
+      213: -7740932358877239361
+    second: efeito_explosao_22
+  - first:
+      213: 6115037060283694046
+    second: efeito_explosao_23
+  - first:
+      213: -2650625125180092519
+    second: efeito_explosao_24
+  - first:
+      213: 5452886427701763262
+    second: efeito_explosao_25
+  - first:
+      213: 163365746955905754
+    second: efeito_explosao_26
+  - first:
+      213: -3422584737345794206
+    second: efeito_explosao_27
+  - first:
+      213: -7679671121268548974
+    second: efeito_explosao_28
+  - first:
+      213: 5304944941008272144
+    second: efeito_explosao_29
+  - first:
+      213: 1479502539499136399
+    second: efeito_explosao_30
+  - first:
+      213: -7858231719341913187
+    second: efeito_explosao_31
+  - first:
+      213: 168232541904202718
+    second: efeito_explosao_32
+  - first:
+      213: -349268492228936869
+    second: efeito_explosao_33
+  - first:
+      213: 2959023324760607847
+    second: efeito_explosao_34
+  - first:
+      213: -834137628288637808
+    second: efeito_explosao_35
+  - first:
+      213: -8272668000843511197
+    second: efeito_explosao_36
+  - first:
+      213: 1847335035020385537
+    second: efeito_explosao_37
+  - first:
+      213: 4242991996033389160
+    second: efeito_explosao_38
+  - first:
+      213: -5940226059045965690
+    second: efeito_explosao_39
+  - first:
+      213: -8255809073802545121
+    second: efeito_explosao_40
+  - first:
+      213: 1894907277841057915
+    second: efeito_explosao_41
+  - first:
+      213: -7451740915194272570
+    second: efeito_explosao_42
+  - first:
+      213: -2950925369061581035
+    second: efeito_explosao_43
+  - first:
+      213: -4772922878987197218
+    second: efeito_explosao_44
+  - first:
+      213: -3895465378608481778
+    second: efeito_explosao_45
+  - first:
+      213: 8606734337794054688
+    second: efeito_explosao_46
+  - first:
+      213: -5870191087009532297
+    second: efeito_explosao_47
+  - first:
+      213: 8084779683356869587
+    second: efeito_explosao_48
+  - first:
+      213: 9016282787915769001
+    second: efeito_explosao_49
+  - first:
+      213: -3312970835273855845
+    second: efeito_explosao_50
+  - first:
+      213: -1476202002028166564
+    second: efeito_explosao_51
+  - first:
+      213: 1062225659238218691
+    second: efeito_explosao_52
+  - first:
+      213: 6900624769605772799
+    second: efeito_explosao_53
+  - first:
+      213: 8665733215624619777
+    second: efeito_explosao_54
+  - first:
+      213: -2430358109130758294
+    second: efeito_explosao_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: efeito_explosao_00
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 21
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1218317c025684c401dc22d3bba0bac1
+      internalID: -178210082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_explosao_01
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 6
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6dd34f135d6d0937004de91eac1f76
+      internalID: -863929360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_explosao_02
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2
+        width: 29
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bba5848f67e8a897f22f26e04edf6f5
+      internalID: -365684200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_explosao_03
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 4
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f19efcfbc1e159e768d5a6d4da3bd6
+      internalID: 1964841807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_explosao_04
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 6
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf694369b3b4016d96c4cb1aba4619a
+      internalID: -468870329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_explosao_05
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 8
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13a35ef35f577eaa586dec46573c931
+      internalID: 633370628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_explosao_06
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 8
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac25e84ee74c09f4c5683e34c813f7b0
+      internalID: 1832776604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_explosao_07
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 10
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9de45157cffc300efff22699898585
+      internalID: 915738136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0298742d5b699bc428ba4ce12ed56d98
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      efeito_explosao_00: -178210082
+      efeito_explosao_01: -863929360
+      efeito_explosao_02: -365684200
+      efeito_explosao_03: 1964841807
+      efeito_explosao_04: -468870329
+      efeito_explosao_05: 633370628
+      efeito_explosao_06: 1832776604
+      efeito_explosao_07: 915738136
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 207777981AECF77AD1BC4EB5A712C4C6
+  assetBundleName: 
+  assetBundleVariant: 

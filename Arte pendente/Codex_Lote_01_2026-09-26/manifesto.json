@@ -1,0 +1,521 @@
+{
+  "schemaVersion": 1,
+  "title": "Lote 01 — complementos",
+  "generatedWith": "Built-in image_gen",
+  "referenceImages": [
+    "Pack completo/Blocos/Blocos1.png",
+    "Pack completo/Personagem/KAEL_MASTER.png"
+  ],
+  "projectDirectory": "C:\\Users\\Ricardo\\Documents\\Projetos\\lithostride\\Arte pendente\\Codex_Lote_01_2026-09-26",
+  "imageCount": 16,
+  "scope": "New source art only. No game code or existing source assets changed.",
+  "validation": {
+    "alphaSampling": "Every 8 pixels in X and Y. Percentages are sampled, not exhaustive.",
+    "dimensionsMeasured": true,
+    "filesExist": true,
+    "alphaChannelPresent": true,
+    "exactTileAdjacencyTested": false,
+    "importedIntoUnity": false,
+    "sha256Recorded": true,
+    "gameplayTested": false,
+    "visualReview": "Sheets reviewed as generated; slicing, animation continuity, seamless edges and runtime scale remain pending."
+  },
+  "assets": [
+    {
+      "id": "01_arbustos_e_samambaias",
+      "file": "01_arbustos_e_samambaias.png",
+      "title": "Arbustos e samambaias",
+      "category": "vegetacao",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 3
+      },
+      "anchorIntent": "base",
+      "content": "Arbustos, samambaias, pequenas bagas e folhas baixas.",
+      "integrationNote": "Ajustar o tamanho pela altura opaca, limpar resíduos e apoiar as raízes na grama.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "01_arbustos_e_samambaias.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1847781,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "1507AC6E26B43F8F20D76BCCF70A1BCCFF2209C2F433631A485544D7CF96E37E",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 56.86,
+        "alphaOneToEightPercent": 8.05,
+        "alphaNineTo254Percent": 35.09,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 30.46,
+        "maximumSampledAlpha": 253
+      }
+    },
+    {
+      "id": "02_flores_e_ervas",
+      "file": "02_flores_e_ervas.png",
+      "title": "Flores e ervas",
+      "category": "vegetacao",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 3
+      },
+      "anchorIntent": "base",
+      "content": "Flores claras, lilases e ervas variadas.",
+      "integrationNote": "Manter agrupamentos esparsos; evitar uma fileira com espaçamento constante.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "02_flores_e_ervas.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1860391,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "316E53A857551B5C2B31CE51AFA0F0C3963C845CE0A8714799A57FC25AE9F184",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 63.47,
+        "alphaOneToEightPercent": 9.66,
+        "alphaNineTo254Percent": 26.87,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 20.69,
+        "maximumSampledAlpha": 253
+      }
+    },
+    {
+      "id": "03_fungos_da_caverna",
+      "file": "03_fungos_da_caverna.png",
+      "title": "Fungos da caverna",
+      "category": "vegetacao",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 3
+      },
+      "anchorIntent": "base",
+      "content": "Cogumelos marrons, azuis e fungos minerais.",
+      "integrationNote": "Preservar pontos luminosos; separar brilho de resíduos do fundo.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "03_fungos_da_caverna.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1808293,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "DFD550A22AAD1C68FE9A0C3AA218073E8BF94914E08A8A1CE90F56BC1B97A6CA",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 61.89,
+        "alphaOneToEightPercent": 6.25,
+        "alphaNineTo254Percent": 31.86,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 28.06,
+        "maximumSampledAlpha": 253
+      }
+    },
+    {
+      "id": "04_cipos_e_raizes",
+      "file": "04_cipos_e_raizes.png",
+      "title": "Cipós e raízes",
+      "category": "vegetacao",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 3
+      },
+      "anchorIntent": "topo",
+      "content": "Cipós, raízes e cortinas de musgo pendentes.",
+      "integrationNote": "Pivô superior e suporte no teto; não tratar como planta apoiada no chão.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "04_cipos_e_raizes.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1933541,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "C8E5B506FE32121C1C1C73B4E587A43B4909B1720117C34B8E80550302C9FE78",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 67.23,
+        "alphaOneToEightPercent": 10.21,
+        "alphaNineTo254Percent": 22.56,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 14.23,
+        "maximumSampledAlpha": 252
+      }
+    },
+    {
+      "id": "05_rochas_da_caverna",
+      "file": "05_rochas_da_caverna.png",
+      "title": "Rochas da caverna",
+      "category": "minerais",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 3
+      },
+      "anchorIntent": "por orientação",
+      "content": "Rochas, estalagmites e estalactites.",
+      "integrationNote": "Separar itens de chão e teto. Props não são tiles modulares.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "05_rochas_da_caverna.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1476098,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "1193EA15BE217F7E90EBF20837C0A01FBC017F73DE7954E0FF829DCD57BAEABF",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 72.59,
+        "alphaOneToEightPercent": 3.39,
+        "alphaNineTo254Percent": 24.03,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 22.03,
+        "maximumSampledAlpha": 253
+      }
+    },
+    {
+      "id": "06_cristais_e_geodos",
+      "file": "06_cristais_e_geodos.png",
+      "title": "Cristais e geodos",
+      "category": "minerais",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 3
+      },
+      "anchorIntent": "base",
+      "content": "Cristais e geodos com acentos minerais.",
+      "integrationNote": "Esta prancha tem dimensões diferentes das demais: não reutilizar recortes.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "06_cristais_e_geodos.png",
+        "width": 1448,
+        "height": 1086,
+        "bytes": 1034271,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "4E32ED253194C6405265B6F675F255A8243A3494B221BE7DF5AEE3220FC103C7",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24616,
+        "alphaZeroPercent": 66.1,
+        "alphaOneToEightPercent": 5.07,
+        "alphaNineTo254Percent": 28.81,
+        "alpha255Percent": 0.02,
+        "alpha240To255Percent": 26.58,
+        "maximumSampledAlpha": 255
+      }
+    },
+    {
+      "id": "07_ruinas_minerais",
+      "file": "07_ruinas_minerais.png",
+      "title": "Ruínas minerais",
+      "category": "props",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 3
+      },
+      "anchorIntent": "base",
+      "content": "Fragmentos e elementos de ruínas de pedra.",
+      "integrationNote": "São objetos independentes; continuidade modular não foi validada.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "07_ruinas_minerais.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1750077,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "793C2F8DDD2B90C79758B0B1E2EA86CC29E2FFC2271CF9AA15D60F75D069B4AB",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 66.28,
+        "alphaOneToEightPercent": 3.94,
+        "alphaNineTo254Percent": 29.78,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 28.41,
+        "maximumSampledAlpha": 254
+      }
+    },
+    {
+      "id": "08_acampamento",
+      "file": "08_acampamento.png",
+      "title": "Acampamento",
+      "category": "props",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 3
+      },
+      "anchorIntent": "base",
+      "content": "Caixas, barris, sacos, cama e objetos de acampamento.",
+      "integrationNote": "Separar cada objeto e normalizar sua escala no mundo.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "08_acampamento.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1757470,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "5EAC8F72B458645B5F5FB51BB642244CEEC86D26C1E55C62BB025164C7A13D84",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 61.49,
+        "alphaOneToEightPercent": 3.65,
+        "alphaNineTo254Percent": 34.86,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 33.22,
+        "maximumSampledAlpha": 253
+      }
+    },
+    {
+      "id": "09_baus_estados",
+      "file": "09_baus_estados.png",
+      "title": "Baús: estados",
+      "category": "props_animados",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 3
+      },
+      "anchorIntent": "base fixa por tipo",
+      "content": "Quatro tipos por coluna; linhas fechado, intermediário e aberto.",
+      "integrationNote": "Revisar consistência de tampa, fechadura e dimensões entre os estados.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "09_baus_estados.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1967969,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "2C191C5432D07D5198C724C0CE5E4F553C54AEE1DC1E6C4CB1B4FD66135F759C",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 47.54,
+        "alphaOneToEightPercent": 2.97,
+        "alphaNineTo254Percent": 49.49,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 47.98,
+        "maximumSampledAlpha": 253
+      }
+    },
+    {
+      "id": "10_tochas_e_lanternas",
+      "file": "10_tochas_e_lanternas.png",
+      "title": "Tochas e lanternas",
+      "category": "props_animados",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 3
+      },
+      "anchorIntent": "suporte por tipo",
+      "content": "Uma família por linha; quatro variações de chama/luz por família.",
+      "integrationNote": "Fixar suporte entre frames; preservar luz útil e revisar continuidade do loop.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "10_tochas_e_lanternas.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1616672,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "351ABAC3756771E64198E2B40CC277D574612103E7D563059B7D61DA8EA6D5AD",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 76.42,
+        "alphaOneToEightPercent": 3.43,
+        "alphaNineTo254Percent": 20.14,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 18.32,
+        "maximumSampledAlpha": 253
+      }
+    },
+    {
+      "id": "11_bancadas_e_estacoes",
+      "file": "11_bancadas_e_estacoes.png",
+      "title": "Bancadas e estações",
+      "category": "props",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 2
+      },
+      "anchorIntent": "base",
+      "content": "Bancada, bigorna, fornalha, rebolo, mesa mineral, suporte, armário e alquimia.",
+      "integrationNote": "Objetos para testar presença visual; não pressupõem sistemas completos de crafting.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "11_bancadas_e_estacoes.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1561299,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "D74FDA93A0754C48C4A84613C94924A3DA59EA56F97D38FC866D04337EFAE5AE",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 66.54,
+        "alphaOneToEightPercent": 2.93,
+        "alphaNineTo254Percent": 30.53,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 29.14,
+        "maximumSampledAlpha": 254
+      }
+    },
+    {
+      "id": "12_recursos_coletaveis",
+      "file": "12_recursos_coletaveis.png",
+      "title": "Recursos coletáveis",
+      "category": "icones",
+      "requestedLayout": {
+        "columns": 6,
+        "finalSliceRectsValidated": false,
+        "rows": 4
+      },
+      "anchorIntent": "centro",
+      "content": "Materiais vegetais, minérios, cristais, lingotes e insumos.",
+      "integrationNote": "Medir cada recorte e tamanho visual; nomes de gameplay ficam no manifesto derivado.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "12_recursos_coletaveis.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1929641,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "44B83D8F66712CD0EC76ABAF0972430716DFD1C030295B9E1D8CF8BAC2000562",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 56.65,
+        "alphaOneToEightPercent": 7.41,
+        "alphaNineTo254Percent": 35.94,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 33.11,
+        "maximumSampledAlpha": 253
+      }
+    },
+    {
+      "id": "13_morcego_cristal",
+      "file": "13_morcego_cristal.png",
+      "title": "Morcego de cristal",
+      "category": "criaturas",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 3
+      },
+      "anchorIntent": "centro do torso",
+      "content": "Voo, investida e dano/morte; quatro poses por linha.",
+      "integrationNote": "Sequência fonte: revisar anatomia, ordem, centro do torso e duração antes de animar.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "13_morcego_cristal.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1613383,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "CF0892E7B28126E72DF783985D50C635137D227529E85B32A939EACEE3377054",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 69.04,
+        "alphaOneToEightPercent": 5.68,
+        "alphaNineTo254Percent": 25.28,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 23.23,
+        "maximumSampledAlpha": 253
+      }
+    },
+    {
+      "id": "14_besouro_mineral",
+      "file": "14_besouro_mineral.png",
+      "title": "Besouro mineral",
+      "category": "criaturas",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 3
+      },
+      "anchorIntent": "base e centro do corpo",
+      "content": "Caminhada, ataque e dano/morte; quatro poses por linha.",
+      "integrationNote": "Revisar número/posição de patas e continuidade de volume; ciclo não testado.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "14_besouro_mineral.png",
+        "width": 1448,
+        "height": 1086,
+        "bytes": 1120665,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "FD7D8706599FD242050D50DE84B9C4B89B61A2A34CB6B4CA0DCD989293A2F7CB",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24616,
+        "alphaZeroPercent": 61.33,
+        "alphaOneToEightPercent": 7.5,
+        "alphaNineTo254Percent": 31.17,
+        "alpha255Percent": 0.01,
+        "alpha240To255Percent": 27.37,
+        "maximumSampledAlpha": 255
+      }
+    },
+    {
+      "id": "15_gosma_de_musgo",
+      "file": "15_gosma_de_musgo.png",
+      "title": "Gosma de musgo",
+      "category": "criaturas",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 3
+      },
+      "anchorIntent": "base / centro no ar",
+      "content": "Idle, salto e dano/morte; quatro poses por linha.",
+      "integrationNote": "Squash é intencional, mas pivô e volume devem ser estabilizados no derivado.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "15_gosma_de_musgo.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1672646,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "ECC1867E112116CF7FA3E93DA959E9F47C8F5C17E69ED20169C8098089A64C89",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 65.65,
+        "alphaOneToEightPercent": 7.58,
+        "alphaNineTo254Percent": 26.77,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 24.3,
+        "maximumSampledAlpha": 253
+      }
+    },
+    {
+      "id": "16_impactos_e_poeira",
+      "file": "16_impactos_e_poeira.png",
+      "title": "Impactos e poeira",
+      "category": "efeitos",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 4
+      },
+      "anchorIntent": "origem do efeito",
+      "content": "Terra, pedra, cristal e poeira; sequência de quatro etapas por linha.",
+      "integrationNote": "Preservar fragmentos soltos; não exigir um único componente conectado por frame.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "16_impactos_e_poeira.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1445893,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "D9CEC8AEE7F844C2765658FAC2CCF3B320898A2064171AF5E75B91F1C9BD2DEE",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 80.77,
+        "alphaOneToEightPercent": 8.0,
+        "alphaNineTo254Percent": 11.23,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 8.31,
+        "maximumSampledAlpha": 254
+      }
+    }
+  ]
+}

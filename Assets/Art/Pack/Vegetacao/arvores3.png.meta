@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 38559b1e0fbc6334f907ca7760e9df96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5541177227891325473
+    second: arvores3_0
+  - first:
+      213: -978811358332621030
+    second: arvores3_1
+  - first:
+      213: 1555370707678473935
+    second: arvores3_2
+  - first:
+      213: 937091021010662732
+    second: arvores3_3
+  - first:
+      213: 8243302195009849303
+    second: arvores3_4
+  - first:
+      213: -3090867416092119202
+    second: arvores3_5
+  - first:
+      213: 6583458957189333536
+    second: arvores3_6
+  - first:
+      213: -6585255747454256814
+    second: arvores3_7
+  - first:
+      213: 3756943940112069331
+    second: arvores3_8
+  - first:
+      213: 871529394174902529
+    second: arvores3_9
+  - first:
+      213: 609922127958718054
+    second: arvores3_10
+  - first:
+      213: 5616690871602341741
+    second: arvores3_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arvore3_l1_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 43
+        height: 203
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a66db82c5f4a32d94837c33dcc7e82c
+      internalID: -373797933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arvore3_l1_02
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 12
+        width: 53
+        height: 193
+      alignment: 9
+      pivot: {x: 0.509434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d266d0c3236ce78bbbfdeca716309e87
+      internalID: -292674859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arvore3_l1_03
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 7
+        width: 40
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff0b81cedfa07f53914a3438e0e3c41
+      internalID: -1276667820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arvore3_l1_04
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 25
+        width: 66
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c60c8f13a00a85734f8de07dfd0c9d6
+      internalID: -313036234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arvore3_l1_05
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 26
+        width: 50
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613c6200e55826d37395b7d07377dc52
+      internalID: 459559356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arvore3_l1_06
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 18
+        width: 43
+        height: 187
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c583c7849ceb2df58d546a9a6eb67575
+      internalID: 993112899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arvore3_l1_07
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 28
+        width: 51
+        height: 177
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89d12e9e64cee05e77fb3a8d240085d
+      internalID: -416354598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arvore3_l2_01
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 179
+        width: 53
+        height: 26
+      alignment: 9
+      pivot: {x: 0.509434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb029273a05a8f4d830945c14cb7892
+      internalID: -295819272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arvore3_l2_02
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 185
+        width: 50
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ebf1b2b0c4f9ba05715b5c38a2a274
+      internalID: -1781954450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arvore3_l2_03
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 178
+        width: 44
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8435d9b57f925d9395be46b9130bc344
+      internalID: 894965939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arvore3_l2_04
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 177
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418b1a4341e63cf13d354985289f6757
+      internalID: -1326857435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arvore3_l2_05
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 182
+        width: 100
+        height: 23
+      alignment: 9
+      pivot: {x: 0.52, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a215f1893fd974a4adee4092ef328d
+      internalID: -162826733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0dcb0606566965b4c95fcd5688f9e1e0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arvore3_l1_01: -373797933
+      arvore3_l1_02: -292674859
+      arvore3_l1_03: -1276667820
+      arvore3_l1_04: -313036234
+      arvore3_l1_05: 459559356
+      arvore3_l1_06: 993112899
+      arvore3_l1_07: -416354598
+      arvore3_l2_01: -295819272
+      arvore3_l2_02: -1781954450
+      arvore3_l2_03: 894965939
+      arvore3_l2_04: -1326857435
+      arvore3_l2_05: -162826733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 15A8810C65729CDCE84011122FA88CBD
+  assetBundleName: 
+  assetBundleVariant: 

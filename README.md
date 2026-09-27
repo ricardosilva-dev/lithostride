@@ -6,7 +6,7 @@ Sandbox survival 2D em que o jogador vive sobre um colosso mineral gigantesco, c
 
 ## Status
 
-Em pré-produção: estrutura inicial e documentação técnica. Nenhuma gameplay foi implementada ainda.
+Primeiro protótipo jogável, na Unity 6000.6.2f1: menu principal, movimento do personagem, estados de caminhada do colosso, parallax, tremores e reação do ambiente aos passos. Abrir `Assets/Scenes/MainMenu/MainMenu.unity` e apertar Play — ver [Como rodar o protótipo](Documentation/Technical/SETUP_PROTOTIPO.md).
 
 ## Stack
 
@@ -19,6 +19,8 @@ Windows, single-player, offline.
 ## Documentação interna
 
 - [Stack técnica e arquitetura](Documentation/Technical/TECH_STACK.md)
+- [Como rodar o protótipo](Documentation/Technical/SETUP_PROTOTIPO.md)
+- [Decisões](Documentation/Decisions/)
 - [Instruções para assistentes de código](CLAUDE.md)
 
 ---

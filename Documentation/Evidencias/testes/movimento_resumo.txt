@@ -1,0 +1,16 @@
+Movimento do Kael — simulação física (Physics2D.Simulate, passo fixo 0,02 s). Unidades: células.
+buffer: pulos 2, segundo pulo 0.000 s após pousar
+coyote 0.050 s: pulos 1, subida 3.560
+coyote 0.250 s: pulos 0, subida 0.000
+degrau 1: y final 1.985, x 6.921, passos no ar 0
+escada descendo: y final 0.985, passos no ar 0/160, pior impacto 0.000
+inversão no ar: vx depois -10.000, x virada -14.400, x final -25.200
+parede 2: x final 2.595, y 0.987
+pulo parado 30 fps: altura 3.745 células, aterrissagens 1, y final 0.985
+pulo parado 60 fps: altura 3.745 células, aterrissagens 1, y final 0.985
+pulo parado 144 fps: altura 3.745 células, aterrissagens 1, y final 0.985
+rampa ↗: alto 3.985 (no ar 0), volta 0.985 (no ar 0)
+rampa ↖: alto 3.985 (no ar 0), volta 0.985 (no ar 0)
+segurar 3 s: pulos 1, aterrissagens 1
+teto baixo (face em 5): topo máximo da cápsula 4.996, y final 0.985
+toque curto: 0.962 células; toque longo: 3.745 células

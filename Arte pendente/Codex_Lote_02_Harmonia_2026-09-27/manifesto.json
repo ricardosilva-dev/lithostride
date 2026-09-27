@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "title": "Lote 02 — harmonia",
+  "generatedWith": "Built-in image_gen",
+  "referenceImages": [
+    "Pack completo/Blocos/Blocos1.png",
+    "Pack completo/Personagem/KAEL_MASTER.png"
+  ],
+  "projectDirectory": "C:\\Users\\Ricardo\\Documents\\Projetos\\lithostride\\Arte pendente\\Codex_Lote_02_Harmonia_2026-09-27",
+  "imageCount": 6,
+  "scope": "New source art only. No game code or existing source assets changed.",
+  "validation": {
+    "alphaSampling": "Every 8 pixels in X and Y. Percentages are sampled, not exhaustive.",
+    "dimensionsMeasured": true,
+    "filesExist": true,
+    "alphaChannelPresent": true,
+    "exactTileAdjacencyTested": false,
+    "importedIntoUnity": false,
+    "sha256Recorded": true,
+    "gameplayTested": false,
+    "visualReview": "Sheets reviewed as generated; slicing, animation continuity, seamless edges and runtime scale remain pending."
+  },
+  "assets": [
+    {
+      "id": "17_terra_mineral_variacoes",
+      "file": "17_terra_mineral_variacoes.png",
+      "title": "Terra mineral — 24 variações",
+      "category": "terreno",
+      "requestedLayout": {
+        "columns": 6,
+        "finalSliceRectsValidated": false,
+        "rows": 4
+      },
+      "anchorIntent": "a definir no derivado",
+      "content": "Terra mineral — 24 variações",
+      "integrationNote": "Amostras visuais, sem compatibilidade de bordas garantida; extrair interior, normalizar e validar adjacências.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "17_terra_mineral_variacoes.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1412461,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "4002C50D315AA7B643C6FF33AE02E111EFD478E222074175306B116CC5A1B861",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 28.54,
+        "alphaOneToEightPercent": 3.39,
+        "alphaNineTo254Percent": 68.07,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 64.97,
+        "maximumSampledAlpha": 254
+      }
+    },
+    {
+      "id": "18_terra_raizes_e_estratos",
+      "file": "18_terra_raizes_e_estratos.png",
+      "title": "Terra orgânica — raízes e estratos",
+      "category": "terreno",
+      "requestedLayout": {
+        "columns": 6,
+        "finalSliceRectsValidated": false,
+        "rows": 4
+      },
+      "anchorIntent": "a definir no derivado",
+      "content": "Terra orgânica — raízes e estratos",
+      "integrationNote": "Amostras visuais, sem compatibilidade de bordas garantida; extrair interior, normalizar e validar adjacências.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "18_terra_raizes_e_estratos.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1658243,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "43CF2E158246D859C301149973DC76B05BC4FDEDB4907BF59A4D7489141843F4",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 36.08,
+        "alphaOneToEightPercent": 5.74,
+        "alphaNineTo254Percent": 58.19,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 55.85,
+        "maximumSampledAlpha": 254
+      }
+    },
+    {
+      "id": "19_pedra_natural_variacoes",
+      "file": "19_pedra_natural_variacoes.png",
+      "title": "Pedra natural — 24 variações",
+      "category": "terreno",
+      "requestedLayout": {
+        "columns": 6,
+        "finalSliceRectsValidated": false,
+        "rows": 4
+      },
+      "anchorIntent": "a definir no derivado",
+      "content": "Pedra natural — 24 variações",
+      "integrationNote": "Amostras visuais, sem compatibilidade de bordas garantida; extrair interior, normalizar e validar adjacências.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "19_pedra_natural_variacoes.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1559144,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "6D6FC0CF07BAD3B49C2511613B997FE46B226D7A97ACBE1AEC8E0794014A6999",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 26.01,
+        "alphaOneToEightPercent": 4.52,
+        "alphaNineTo254Percent": 69.47,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 67.89,
+        "maximumSampledAlpha": 253
+      }
+    },
+    {
+      "id": "20_grama_bordas_naturais",
+      "file": "20_grama_bordas_naturais.png",
+      "title": "Acabamentos de grama e bordas naturais",
+      "category": "terreno",
+      "requestedLayout": {
+        "columns": 6,
+        "finalSliceRectsValidated": false,
+        "rows": 4
+      },
+      "anchorIntent": "a definir no derivado",
+      "content": "Acabamentos de grama e bordas naturais",
+      "integrationNote": "Contém plataformas desenhadas; extrair apenas acabamentos úteis e adaptar para o terreno contínuo. Não usar como blocos repetidos diretamente.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "20_grama_bordas_naturais.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1701779,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "0BBA638FD0B11B6A608C9C2229DC76DECD739DD14FC1AF211A023885C65BB9E7",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 66.73,
+        "alphaOneToEightPercent": 6.97,
+        "alphaNineTo254Percent": 26.3,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 22.57,
+        "maximumSampledAlpha": 253
+      }
+    },
+    {
+      "id": "21_arvores_bosque_medias",
+      "file": "21_arvores_bosque_medias.png",
+      "title": "Árvores de bosque — proporções naturais",
+      "category": "arvores",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 2
+      },
+      "anchorIntent": "base das raízes",
+      "content": "Árvores de bosque — proporções naturais",
+      "integrationNote": "Medir altura visível; ajustar PPU/escala por classe e contato das raízes. Revisar margens apertadas e eventuais pixels nas bordas.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "21_arvores_bosque_medias.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2315861,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "2FCBD72F77051E7B3E7F9071359EE132CE517BE77A2B30F35D438605F77F7D81",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 44.6,
+        "alphaOneToEightPercent": 8.67,
+        "alphaNineTo254Percent": 46.73,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 39.9,
+        "maximumSampledAlpha": 253
+      }
+    },
+    {
+      "id": "22_arvores_antigas_grandes",
+      "file": "22_arvores_antigas_grandes.png",
+      "title": "Árvores antigas — copas altas",
+      "category": "arvores",
+      "requestedLayout": {
+        "columns": 4,
+        "finalSliceRectsValidated": false,
+        "rows": 2
+      },
+      "anchorIntent": "base das raízes",
+      "content": "Árvores antigas — copas altas",
+      "integrationNote": "Medir altura visível; ajustar PPU/escala por classe e contato das raízes. Revisar margens apertadas e eventuais pixels nas bordas.",
+      "status": "source_art_pending_slicing_and_runtime_validation",
+      "measurement": {
+        "file": "22_arvores_antigas_grandes.png",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2958642,
+        "pixelFormat": "Format32bppArgb",
+        "sha256": "28E70B70F8FB734950498C04D56948B9E67F47DF2D9E8154E7EC5587A2ACFBB1",
+        "alphaSamplingStride": 8,
+        "alphaSamples": 24576,
+        "alphaZeroPercent": 33.15,
+        "alphaOneToEightPercent": 12.15,
+        "alphaNineTo254Percent": 54.7,
+        "alpha255Percent": 0.0,
+        "alpha240To255Percent": 45.1,
+        "maximumSampledAlpha": 252
+      }
+    }
+  ]
+}

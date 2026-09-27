@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 6b019ca45ad964f4bbfe32811233ee29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8413517678441236116
+    second: efeito_projetil_0
+  - first:
+      213: -4556444436505292805
+    second: efeito_projetil_1
+  - first:
+      213: -1542957616688967468
+    second: efeito_projetil_2
+  - first:
+      213: -2394964129914539812
+    second: efeito_projetil_3
+  - first:
+      213: -9072071710637927153
+    second: efeito_projetil_4
+  - first:
+      213: 7879165775434261097
+    second: efeito_projetil_5
+  - first:
+      213: -1411732892377859251
+    second: efeito_projetil_6
+  - first:
+      213: -6376712521789413466
+    second: efeito_projetil_7
+  - first:
+      213: 2222327046299835611
+    second: efeito_projetil_8
+  - first:
+      213: 5953344441401897882
+    second: efeito_projetil_9
+  - first:
+      213: -5193380229154853105
+    second: efeito_projetil_10
+  - first:
+      213: 792090230268521256
+    second: efeito_projetil_11
+  - first:
+      213: -1588368830688861227
+    second: efeito_projetil_12
+  - first:
+      213: 1368337686036463620
+    second: efeito_projetil_13
+  - first:
+      213: 741006736138568206
+    second: efeito_projetil_14
+  - first:
+      213: 1150176230645892499
+    second: efeito_projetil_15
+  - first:
+      213: -7393828711443168492
+    second: efeito_projetil_16
+  - first:
+      213: -4976604027076966872
+    second: efeito_projetil_17
+  - first:
+      213: -2393681288278180279
+    second: efeito_projetil_18
+  - first:
+      213: 1389815695408074535
+    second: efeito_projetil_19
+  - first:
+      213: 442720697795227118
+    second: efeito_projetil_20
+  - first:
+      213: -3763331050749519093
+    second: efeito_projetil_21
+  - first:
+      213: 2043079497547392722
+    second: efeito_projetil_22
+  - first:
+      213: -7380743449908269484
+    second: efeito_projetil_23
+  - first:
+      213: -2473060000940007187
+    second: efeito_projetil_24
+  - first:
+      213: -7501928592121254616
+    second: efeito_projetil_25
+  - first:
+      213: 8607410516593762615
+    second: efeito_projetil_26
+  - first:
+      213: -7021907047957594436
+    second: efeito_projetil_27
+  - first:
+      213: 4689518317611146500
+    second: efeito_projetil_28
+  - first:
+      213: -5327364999933893199
+    second: efeito_projetil_29
+  - first:
+      213: -7904370174817067225
+    second: efeito_projetil_30
+  - first:
+      213: 4415086347303629996
+    second: efeito_projetil_31
+  - first:
+      213: -7150780235692476749
+    second: efeito_projetil_32
+  - first:
+      213: 3455682304212722987
+    second: efeito_projetil_33
+  - first:
+      213: -9084153267574287739
+    second: efeito_projetil_34
+  - first:
+      213: -2160170556423001429
+    second: efeito_projetil_35
+  - first:
+      213: -6670970718070679035
+    second: efeito_projetil_36
+  - first:
+      213: -3745912865056545655
+    second: efeito_projetil_37
+  - first:
+      213: 7194604357235995237
+    second: efeito_projetil_38
+  - first:
+      213: -7924621055790508161
+    second: efeito_projetil_39
+  - first:
+      213: 8373699245646196483
+    second: efeito_projetil_40
+  - first:
+      213: 863328858421112334
+    second: efeito_projetil_41
+  - first:
+      213: -1261870165452318794
+    second: efeito_projetil_42
+  - first:
+      213: 4812753485842133563
+    second: efeito_projetil_43
+  - first:
+      213: -8636561844917793123
+    second: efeito_projetil_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: efeito_projetil_00
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 17
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911d05865ea215cb52420bd9721ae35a
+      internalID: 499591526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_projetil_01
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4
+        width: 27
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee030f2163305fda764d5834ef0c892d
+      internalID: -189012123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_projetil_02
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 27
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b2de0312e5e6254f8d246f6fa0f66e
+      internalID: 225854885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_projetil_03
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2
+        width: 27
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868f1f90010220f33535d8054a6fbf96
+      internalID: -215007733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_projetil_04
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2
+        width: 29
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eef9e51fb2e55bd66b2518c75472466
+      internalID: 1506082412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_projetil_05
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 25
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bb5f9b31df3716391294c7a9478a5a
+      internalID: -1997857060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_projetil_06
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2
+        width: 25
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a4b55b6e9a261454499945be0a95c1
+      internalID: -2028185596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_projetil_07
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 6
+        width: 21
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f540bc212b589dd090882b3fdbeddc2
+      internalID: 1006342027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 40fa95d7c9eb0d546b3f27cecd112d89
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      efeito_projetil_00: 499591526
+      efeito_projetil_01: -189012123
+      efeito_projetil_02: 225854885
+      efeito_projetil_03: -215007733
+      efeito_projetil_04: 1506082412
+      efeito_projetil_05: -1997857060
+      efeito_projetil_06: -2028185596
+      efeito_projetil_07: 1006342027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 148B11B865044CBCDEE34C27B2DB8790
+  assetBundleName: 
+  assetBundleVariant: 

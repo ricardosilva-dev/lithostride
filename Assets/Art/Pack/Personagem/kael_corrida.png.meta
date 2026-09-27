@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: eefdec9b988d88549a0e6d571817f2c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9133131774591203317
+    second: kael_corrida_0
+  - first:
+      213: 6828599452543614687
+    second: kael_corrida_1
+  - first:
+      213: -4780051376621304384
+    second: kael_corrida_2
+  - first:
+      213: -5101038140675889314
+    second: kael_corrida_3
+  - first:
+      213: 486993024702067018
+    second: kael_corrida_4
+  - first:
+      213: 8252320284360867070
+    second: kael_corrida_5
+  - first:
+      213: 4873292185696480737
+    second: kael_corrida_6
+  - first:
+      213: 962729963901931581
+    second: kael_corrida_7
+  - first:
+      213: -7012838547819978281
+    second: kael_corrida_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kael_corrida_00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27555d5c9d9454c24c4c0f6d8ee8b2ac
+      internalID: 1793895551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael_corrida_01
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0ce66aa6bddf23c32d6c5065643b96
+      internalID: 207542682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael_corrida_02
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1afd4d0ff2f1d5d621bb72c29dde46c
+      internalID: 2044400309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael_corrida_03
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6391b8f6d2556b4196f5d14e80256f
+      internalID: -1699436655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael_corrida_04
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed0730904d816a64ea31735120831cd
+      internalID: -1770732718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael_corrida_05
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d56a264d17bdda6fae9f5fa10865f3c
+      internalID: -410500829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael_corrida_06
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1837d8b18f10076af073f2a890939317
+      internalID: 721780463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael_corrida_07
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6124016abb5d60b5f1c45b04c7a36b17
+      internalID: 164772762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael_corrida_08
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10c842ba3beced262e76d6ff9bb8043
+      internalID: 1613647368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4d241805dc432e24287c5889b0df6f20
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kael_corrida_00: 1793895551
+      kael_corrida_01: 207542682
+      kael_corrida_02: 2044400309
+      kael_corrida_03: -1699436655
+      kael_corrida_04: -1770732718
+      kael_corrida_05: -410500829
+      kael_corrida_06: 721780463
+      kael_corrida_07: 164772762
+      kael_corrida_08: 1613647368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 45514CB8D09046162C551B2CF514DAE6
+  assetBundleName: 
+  assetBundleVariant: 

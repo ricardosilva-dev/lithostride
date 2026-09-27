@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: 5356e462fefcb544e902be3fc7b63698
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8575829228329630907
+    second: espada_cristal_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.16931818, y: 0.17146222}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: espada_cristal
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0.19444445, y: 0.17307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14143a71253249d3304a7ac61740f170
+      internalID: -1497475295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espada_cristal_a20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 17
+        width: 30
+        height: 14
+      alignment: 9
+      pivot: {x: 0.18333334, y: 0.32142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79334bab56012c29713b389098c029b9
+      internalID: 531400292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espada_cristal_a25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 16
+        width: 28
+        height: 15
+      alignment: 9
+      pivot: {x: 0.16071428, y: 0.23333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d38b0570dea8e2f7d1140dbabe406bf
+      internalID: 1872151441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espada_cristal_a30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 14
+        width: 27
+        height: 17
+      alignment: 9
+      pivot: {x: 0.16666667, y: 0.20588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e4363f6d99bf7b6f8b4e56656ed654
+      internalID: 1830186481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espada_cristal_a35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 13
+        width: 26
+        height: 18
+      alignment: 9
+      pivot: {x: 0.17307693, y: 0.19444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a343894ee3e8ed7a27b56bac8bb6cc
+      internalID: -837350498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espada_cristal_a40
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 11
+        width: 24
+        height: 20
+      alignment: 9
+      pivot: {x: 0.1875, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde0f39ba4444e930bfdaa81476c97b2
+      internalID: 1362107762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espada_cristal_a45
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 8
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: 0.1590909, y: 0.19565217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ff5f612fc40ea3c1fc3a49fa536384
+      internalID: 2135696095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espada_cristal_a50
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 7
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0.175, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a765d27b967982c6c20c2bbc5fe9eee1
+      internalID: 1535097570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espada_cristal_a55
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.18421052, y: 0.17307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d18bdbd99f6c95536082bb02014f47
+      internalID: 104610629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espada_cristal_a60
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 4
+        width: 16
+        height: 27
+      alignment: 9
+      pivot: {x: 0.15625, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c25a9d8f738674c99d880b499fc71c6
+      internalID: 1933762868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espada_cristal_a65
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2
+        width: 15
+        height: 29
+      alignment: 9
+      pivot: {x: 0.23333333, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20746d2cfeb2597028c81372aee1881a
+      internalID: 1510952125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espada_cristal_a70
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1
+        width: 14
+        height: 30
+      alignment: 9
+      pivot: {x: 0.25, y: 0.18333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6ee9c8e369446e998be44916eade0a
+      internalID: 1836817749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      espada_cristal: -1497475295
+      espada_cristal_a20: 531400292
+      espada_cristal_a25: 1872151441
+      espada_cristal_a30: 1830186481
+      espada_cristal_a35: -837350498
+      espada_cristal_a40: 1362107762
+      espada_cristal_a45: 2135696095
+      espada_cristal_a50: 1535097570
+      espada_cristal_a55: 104610629
+      espada_cristal_a60: 1933762868
+      espada_cristal_a65: 1510952125
+      espada_cristal_a70: 1836817749
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: D2A71A1B7657C408911A7D86256F3F4C
+  assetBundleName: 
+  assetBundleVariant: 

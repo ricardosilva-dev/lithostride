@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: e0fabf3976c1e2c45920e94581954ad9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8218637335647787470
+    second: kael_caminhada_0
+  - first:
+      213: -7647626884024550328
+    second: kael_caminhada_1
+  - first:
+      213: -2373915618939148160
+    second: kael_caminhada_2
+  - first:
+      213: -2768227398855926730
+    second: kael_caminhada_3
+  - first:
+      213: 547919428582356469
+    second: kael_caminhada_4
+  - first:
+      213: -3966147370485826810
+    second: kael_caminhada_5
+  - first:
+      213: 3343155264479689830
+    second: kael_caminhada_6
+  - first:
+      213: 5934125752497407889
+    second: kael_caminhada_7
+  - first:
+      213: -8998231149679441889
+    second: kael_caminhada_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kael_caminhada_00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e597e02829d53e98e8880b62614e18
+      internalID: -1745091943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael_caminhada_01
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a598dbe380990957d2db6e68f2ba2f1
+      internalID: 350429044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael_caminhada_02
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2ef9a1236641982b5a53394e0a7502
+      internalID: 1440497273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael_caminhada_03
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e5cf96dc55a1e01d0fbee7e93080d5
+      internalID: 2078112636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael_caminhada_04
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c48bd150ffc3753085bafd2180bde3
+      internalID: 1613018070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael_caminhada_05
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf05e7948349f6373b0719e730b42e7d
+      internalID: 794859339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael_caminhada_06
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641bf1785a10679845817c24543dd3b8
+      internalID: 1462287482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael_caminhada_07
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334c0043c4f26629256630330588dd8d
+      internalID: 1521488441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael_caminhada_08
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.07272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99721a799be52d324c78e7b15101cb40
+      internalID: 307848061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1ca6484af1388734680f34aa2458d3b7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kael_caminhada_00: -1745091943
+      kael_caminhada_01: 350429044
+      kael_caminhada_02: 1440497273
+      kael_caminhada_03: 2078112636
+      kael_caminhada_04: 1613018070
+      kael_caminhada_05: 794859339
+      kael_caminhada_06: 1462287482
+      kael_caminhada_07: 1521488441
+      kael_caminhada_08: 307848061
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: B73E54C176F388076F3465CB19F169BF
+  assetBundleName: 
+  assetBundleVariant: 

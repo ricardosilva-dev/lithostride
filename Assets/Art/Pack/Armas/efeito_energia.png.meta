@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: 516b74d219ec9014fbf7948b6e92ac33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1564102780036323736
+    second: efeito_energia_0
+  - first:
+      213: 2721730763042241706
+    second: efeito_energia_1
+  - first:
+      213: 1257970951978642680
+    second: efeito_energia_2
+  - first:
+      213: -6365830832368815444
+    second: efeito_energia_3
+  - first:
+      213: 7614901142663918745
+    second: efeito_energia_4
+  - first:
+      213: -5428494778875889210
+    second: efeito_energia_5
+  - first:
+      213: 3600506649825225915
+    second: efeito_energia_6
+  - first:
+      213: 7643893660370198910
+    second: efeito_energia_7
+  - first:
+      213: -2252879604247370585
+    second: efeito_energia_8
+  - first:
+      213: 2002449111642721727
+    second: efeito_energia_9
+  - first:
+      213: -4496491305099654874
+    second: efeito_energia_10
+  - first:
+      213: -3674618274052767598
+    second: efeito_energia_11
+  - first:
+      213: 6633703312368557609
+    second: efeito_energia_12
+  - first:
+      213: 4352307851221021089
+    second: efeito_energia_13
+  - first:
+      213: 1404422225769098802
+    second: efeito_energia_14
+  - first:
+      213: -5474708107573252458
+    second: efeito_energia_15
+  - first:
+      213: 1050257357245689336
+    second: efeito_energia_16
+  - first:
+      213: 5678102164281967857
+    second: efeito_energia_17
+  - first:
+      213: -4230201872235233128
+    second: efeito_energia_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: efeito_energia_00
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 16
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.22916667, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3bc095c66d0ff37984b65fb4b4fd82
+      internalID: 1768876695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_energia_01
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 7
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.28846154, y: 0.203125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebd2e4b3dbc323a2da10efc29fa4097
+      internalID: 1957436711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_energia_02
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0.28333333, y: 0.19117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef23f87ad816da9056bd568d12191ab2
+      internalID: -2105185501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_energia_03
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2
+        width: 30
+        height: 37
+      alignment: 9
+      pivot: {x: 0.21666667, y: 0.25675675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b429c567d91ca13832dd29eef5ceaf0b
+      internalID: 514914602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_energia_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 9
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.1875, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2d141c414d5d0e452b33622cd39c08
+      internalID: 1558054887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_energia_05
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 10
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.21153846, y: 0.22413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebbed1590828c8b2ab987a2bf38ec2e
+      internalID: 2080722942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_energia_06
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 13
+        width: 25
+        height: 26
+      alignment: 9
+      pivot: {x: 0.22, y: 0.21153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e80b443ead7ac63c36c9b811124619
+      internalID: 472789599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efeito_energia_07
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 13
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 0.27083334, y: 0.21153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b068b876020912aee72665c293d85829
+      internalID: 2013496640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0f8dc26217525604aaa7d29099be6298
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      efeito_energia_00: 1768876695
+      efeito_energia_01: 1957436711
+      efeito_energia_02: -2105185501
+      efeito_energia_03: 514914602
+      efeito_energia_04: 1558054887
+      efeito_energia_05: 2080722942
+      efeito_energia_06: 472789599
+      efeito_energia_07: 2013496640
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 47FC922968A12B1C25B70B647DDA0BBD
+  assetBundleName: 
+  assetBundleVariant: 

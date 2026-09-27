@@ -1,0 +1,2212 @@
+fileFormatVersion: 2
+guid: cacd334d48b0cd742840e0363c2fe7d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7517421248841323584
+    second: icones_blocos2_0
+  - first:
+      213: -1411426273135671493
+    second: icones_blocos2_1
+  - first:
+      213: -4420073390741465787
+    second: icones_blocos2_2
+  - first:
+      213: -5922537973173385395
+    second: icones_blocos2_3
+  - first:
+      213: -985173693978309136
+    second: icones_blocos2_4
+  - first:
+      213: 3026237888663820117
+    second: icones_blocos2_5
+  - first:
+      213: -6769059838509979020
+    second: icones_blocos2_6
+  - first:
+      213: -21647806483199453
+    second: icones_blocos2_7
+  - first:
+      213: 3526604113780928478
+    second: icones_blocos2_8
+  - first:
+      213: -5376561349982754462
+    second: icones_blocos2_9
+  - first:
+      213: 8003407762849575990
+    second: icones_blocos2_10
+  - first:
+      213: 7347381296204748290
+    second: icones_blocos2_11
+  - first:
+      213: 3805365165922101573
+    second: icones_blocos2_12
+  - first:
+      213: -8395263789550841567
+    second: icones_blocos2_13
+  - first:
+      213: 4210826951139081610
+    second: icones_blocos2_14
+  - first:
+      213: 8425719705151892232
+    second: icones_blocos2_15
+  - first:
+      213: -1424119428989140010
+    second: icones_blocos2_16
+  - first:
+      213: -4955412666266764694
+    second: icones_blocos2_17
+  - first:
+      213: 9162034560760862670
+    second: icones_blocos2_18
+  - first:
+      213: 4326036417887848161
+    second: icones_blocos2_19
+  - first:
+      213: 8308236248220820832
+    second: icones_blocos2_20
+  - first:
+      213: 1422952933965091773
+    second: icones_blocos2_21
+  - first:
+      213: 4417480458909315136
+    second: icones_blocos2_22
+  - first:
+      213: 5622076119211684910
+    second: icones_blocos2_23
+  - first:
+      213: -1263701210937999835
+    second: icones_blocos2_24
+  - first:
+      213: 532372832371501226
+    second: icones_blocos2_25
+  - first:
+      213: -7544388231230834208
+    second: icones_blocos2_26
+  - first:
+      213: 8613533446050527469
+    second: icones_blocos2_27
+  - first:
+      213: -8377072678324618828
+    second: icones_blocos2_28
+  - first:
+      213: 6310139488168194050
+    second: icones_blocos2_29
+  - first:
+      213: 8058743082366266305
+    second: icones_blocos2_30
+  - first:
+      213: 7272570857000483965
+    second: icones_blocos2_31
+  - first:
+      213: -6900713261952995907
+    second: icones_blocos2_32
+  - first:
+      213: -6631328832158100254
+    second: icones_blocos2_33
+  - first:
+      213: 8145860735466879497
+    second: icones_blocos2_34
+  - first:
+      213: -3083826635546536706
+    second: icones_blocos2_35
+  - first:
+      213: 8084859928731830746
+    second: icones_blocos2_36
+  - first:
+      213: 2333073014088950897
+    second: icones_blocos2_37
+  - first:
+      213: -1490053648775106409
+    second: icones_blocos2_38
+  - first:
+      213: -3333038093122124670
+    second: icones_blocos2_39
+  - first:
+      213: 3799099096359800761
+    second: icones_blocos2_40
+  - first:
+      213: -2862787619515753221
+    second: icones_blocos2_41
+  - first:
+      213: 7173753064137087036
+    second: icones_blocos2_42
+  - first:
+      213: 4121915667341524627
+    second: icones_blocos2_43
+  - first:
+      213: -6620325485262613943
+    second: icones_blocos2_44
+  - first:
+      213: 378835615071768427
+    second: icones_blocos2_45
+  - first:
+      213: -1280559844796038663
+    second: icones_blocos2_46
+  - first:
+      213: -175652577631579616
+    second: icones_blocos2_47
+  - first:
+      213: 9181678628120904309
+    second: icones_blocos2_48
+  - first:
+      213: 3488413326391211504
+    second: icones_blocos2_49
+  - first:
+      213: -7265149417348753970
+    second: icones_blocos2_50
+  - first:
+      213: -6946881720062144375
+    second: icones_blocos2_51
+  - first:
+      213: -1170450305627318911
+    second: icones_blocos2_52
+  - first:
+      213: -6355884556504257227
+    second: icones_blocos2_53
+  - first:
+      213: -4931252567442244117
+    second: icones_blocos2_54
+  - first:
+      213: 8345261488787478739
+    second: icones_blocos2_55
+  - first:
+      213: -5624888111639419489
+    second: icones_blocos2_56
+  - first:
+      213: -3501502581172232021
+    second: icones_blocos2_57
+  - first:
+      213: 7991233259740642259
+    second: icones_blocos2_58
+  - first:
+      213: -162264516432724794
+    second: icones_blocos2_59
+  - first:
+      213: -8576983319743930787
+    second: icones_blocos2_60
+  - first:
+      213: -6468876514184135005
+    second: icones_blocos2_61
+  - first:
+      213: -3120978121246575397
+    second: icones_blocos2_62
+  - first:
+      213: 3022533499487677439
+    second: icones_blocos2_63
+  - first:
+      213: -5702589693703864687
+    second: icones_blocos2_64
+  - first:
+      213: -1026842321703545796
+    second: icones_blocos2_65
+  - first:
+      213: -1311540009103526525
+    second: icones_blocos2_66
+  - first:
+      213: -2653512131562651802
+    second: icones_blocos2_67
+  - first:
+      213: 1206568707976563862
+    second: icones_blocos2_68
+  - first:
+      213: 458482475199524512
+    second: icones_blocos2_69
+  - first:
+      213: -6746245747481505545
+    second: icones_blocos2_70
+  - first:
+      213: 2122962191748774267
+    second: icones_blocos2_71
+  - first:
+      213: -5648051215575945404
+    second: icones_blocos2_72
+  - first:
+      213: -2310427621400594396
+    second: icones_blocos2_73
+  - first:
+      213: -4889599824857983952
+    second: icones_blocos2_74
+  - first:
+      213: -8852046684065055070
+    second: icones_blocos2_75
+  - first:
+      213: 6705563652418616627
+    second: icones_blocos2_76
+  - first:
+      213: -8311074682674255408
+    second: icones_blocos2_77
+  - first:
+      213: 3767279739311373235
+    second: icones_blocos2_78
+  - first:
+      213: -7909110007209497507
+    second: icones_blocos2_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blocos2_l01_c01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 69
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392a6d36aab53754d55dfbaea1d949ed
+      internalID: -1958676722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l01_c02
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 69
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f283dbe5095de339b39ca936bae4f8da
+      internalID: -1998436393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l01_c03
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 68
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2157e218ba8444977c622569f03d2c7
+      internalID: 1858796977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l01_c04
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 68
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789cc4a1e27a472e0d6204d65fcb8db4
+      internalID: 1564430680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l01_c05
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 69
+        width: 29
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a6b94898b5069311bf04c0da196115
+      internalID: 1363001211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l01_c06
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 68
+        width: 30
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b345954607e1d724b499834ff90256f
+      internalID: 591046896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l01_c07
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 68
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a6aaf76f43436052104dde3e840ced
+      internalID: -1373650369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l01_c08
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 69
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220a58032e8695e70c39bf0706e68c91
+      internalID: 80844344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l01_c09
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 69
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de677ba819eb33679a217971664bfff2
+      internalID: 1315332795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l01_c10
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 68
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503c63a5a669fcdf001a86a086d0bef8
+      internalID: -338999925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l02_c01
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 68
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961db3f3f12403c4d502cff4580d3ae0
+      internalID: 1201924758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l02_c02
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 68
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe762110e0d413aa4bcc59842f6d4f9d
+      internalID: -1150681429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l02_c03
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 68
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef6e41c23115e607d10725aeedff8ea
+      internalID: 1183289746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l02_c04
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 69
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f11bf33eee8f8a7a0013c94df7cbf3
+      internalID: 158061913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l02_c05
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 68
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54effe314307416021e8929553492a88
+      internalID: -481269902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l02_c06
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 69
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af9bf791f9b5838297b1f0eb15cdc50
+      internalID: 811934155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l02_c07
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 70
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4433ba11e2477f93dc6cf2e898132787
+      internalID: -529393190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l02_c08
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 70
+        width: 28
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b7f20c459892f7fad2e9bba9ffa30
+      internalID: -1395762582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l02_c09
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 68
+        width: 26
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2339f8e3952574f69907c11b53bcaa
+      internalID: -1351516510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l02_c10
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 70
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944373dd76f077de53651fbefc16e469
+      internalID: -1062081828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l03_c01
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 67
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5097a5d555e0d9b4d626727e9da3f9
+      internalID: 1040125460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l03_c02
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 67
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec41c4296af49dfd9efd2b5364cbe44
+      internalID: 1139366764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l03_c03
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 67
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b388757cc4d34590753e33d0ee214399
+      internalID: 219665326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l03_c04
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 67
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a07c3c56063310ce7e4e8347a624143
+      internalID: 1701511651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l03_c05
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 67
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e17f6cc6f9f72b77286abe33e68496
+      internalID: 468960502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l03_c06
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 67
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a649518d744f3d2b456a31634e9ace
+      internalID: -648505212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l03_c07
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 67
+        width: 31
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cef922af468f50767e0c9d0ba6270a8
+      internalID: 1687278814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l03_c08
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 67
+        width: 29
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e330eb92c465383558d07061ffcc21
+      internalID: -1702079801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l03_c09
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 65
+        width: 28
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ee90aa34684749bc3e8cfc901a527d
+      internalID: -232416951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l03_c10
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 65
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7ae8ed43740e3db8cba2fce1e07f42
+      internalID: 285045351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l04_c01
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 67
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f972d36a0072ddce41b0b230460999
+      internalID: 1403756167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l04_c02
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 67
+        width: 24
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e440534b1a9cbfd3a89bd8aa8fd8a9cd
+      internalID: 1027805589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l04_c03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6c78f8fe789eb0b3f1a01b0af61018
+      internalID: 1846429069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l04_c04
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6631eec163d7b5cb6ac917bc6c3cff4f
+      internalID: 819491264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l04_c05
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 32
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8679aaaf60cbb51f6c4e1f45727db2ef
+      internalID: -533761705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l04_c06
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 32
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef61ee85cf8af2d70342c8a796a352a
+      internalID: -670937625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l04_c07
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 32
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1593f87314575df89cda7ddb0a5688
+      internalID: -1446527397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l04_c08
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 32
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57576578a67b674fbed45cab4151ab3
+      internalID: 1159877572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l04_c09
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 32
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da4b479985da2fde69f75a56e743cd9
+      internalID: -301239727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l04_c10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 31
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eecdccfbd974a77cc3e1167f6c4dccc
+      internalID: 1924453597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l05_c01
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 37
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60675481fbfea227359f865a04116fcf
+      internalID: -121211818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l05_c02
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 37
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef11010e5f63209d391217c5da6e4d5
+      internalID: -408623709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l05_c03
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 37
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c6c6f63eb62076f1b2e271ddd4eff8
+      internalID: 728724209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l05_c04
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 36
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01508e437bc2f9da304f51fae4b1a15d
+      internalID: -1258608106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l05_c05
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 37
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c9bce79074edf3be8770d48ac41a8f
+      internalID: -213995324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l05_c06
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 37
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d800f9e158a21dc0dcf31dba897e782f
+      internalID: 1309614885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l05_c07
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 37
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96f963ba764df10bc6e0246616451d0
+      internalID: 1757234356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l05_c08
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 36
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f526f1aa8d854531ba2e64b9d1f1aa30
+      internalID: -663001399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l05_c09
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 36
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65941c8c7ab161f237dc47040b112e18
+      internalID: 1552674542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l05_c10
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 37
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744e1aa534fa1ed4d9e373c550fe1718
+      internalID: 963963172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l06_c01
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 38
+        width: 27
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91b604e7e29b5b3fc0cdd43d51854d4
+      internalID: 129672178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l06_c02
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 37
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df299656ae01c14062cb7a845701de17
+      internalID: -608618232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l06_c03
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 37
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d194118bfac17bbfcbfcd5baccfaae
+      internalID: -628672704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l06_c04
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 36
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989c3c78c0405f089563091aa6642e43
+      internalID: -299108698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l06_c05
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 36
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cb895c473b5e4884cb2e8a7bbdf4d4
+      internalID: -498203304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l06_c06
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 36
+        width: 28
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb16ebbb66308e1c06e268569ee55682
+      internalID: 188202441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l06_c07
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 36
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dd64bb0e7b328a694011d2f1d55556
+      internalID: -628986889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l06_c08
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 36
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e47e6ca8a3a2355705007c5b9efc878
+      internalID: 371304914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l06_c09
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 37
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c1a7e5455bb48f1180ef927d11440a
+      internalID: 204773892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l06_c10
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 36
+        width: 26
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3d7e80b344c08228e75d4c88f1ca31
+      internalID: -99204889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l07_c01
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 37
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb1d8782b91c9d8ac85d700ddbc04c7
+      internalID: -1385453548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l07_c02
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 37
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6c26007eb1966c3f6c092db07d599d
+      internalID: -1761842755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l07_c03
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 36
+        width: 26
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ed84186cf6ecb6f6fdb6477aea1301
+      internalID: -2038933616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l07_c04
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 37
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49e834d7d55911d3d24c6f19038497b
+      internalID: -1173061595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l07_c05
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 28
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c081ef0ca2a1316dbe071beea30116
+      internalID: 333755628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l07_c06
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3670d8c3860abb080bdaabbf660d20
+      internalID: 560827675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l07_c07
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc6220bc15abee1bf8bdb4d52d7f590
+      internalID: -2031871202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l07_c08
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91662ac7b0c67816e220c984258311e
+      internalID: -243188364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l07_c09
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1ab6c65bc91bcfc8a44a3dc35dc6cb
+      internalID: 5747728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l07_c10
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da11b8ae1aa95f7023521ad774deb281
+      internalID: -628322315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l08_c01
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2
+        width: 28
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3c26c54af0156798330ab45c9ac879
+      internalID: -514964092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l08_c02
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa0df93f2efa8233fa52878dabd5efc
+      internalID: 936655905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l08_c03
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2
+        width: 26
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ef80d144c5884d949ac4aac3a1e656
+      internalID: 2016679027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l08_c04
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2
+        width: 26
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8f8fe47fac03fd9b15d2b7330be860
+      internalID: -447603843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l08_c05
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2
+        width: 28
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d8fb2654f74c2149326bf72bbf3e5d
+      internalID: 1562690774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l08_c06
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2
+        width: 28
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee7e3c7461af1c31d76782e774684f7
+      internalID: 93698458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l08_c07
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2
+        width: 28
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a85ec5b77f91f4ac638e53274ff4b9
+      internalID: 1821756636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l08_c08
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5f749df083a817a2ca7310dedf848f
+      internalID: -649145779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l08_c09
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4585268a1582d7db26653d55b6f97635
+      internalID: -444204100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos2_l08_c10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcda50f7d958d994d5e9aca4c392e41
+      internalID: -435870577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cb0d7652d17031d40af630fa05e8ee16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blocos2_l01_c01: -1958676722
+      blocos2_l01_c02: -1998436393
+      blocos2_l01_c03: 1858796977
+      blocos2_l01_c04: 1564430680
+      blocos2_l01_c05: 1363001211
+      blocos2_l01_c06: 591046896
+      blocos2_l01_c07: -1373650369
+      blocos2_l01_c08: 80844344
+      blocos2_l01_c09: 1315332795
+      blocos2_l01_c10: -338999925
+      blocos2_l02_c01: 1201924758
+      blocos2_l02_c02: -1150681429
+      blocos2_l02_c03: 1183289746
+      blocos2_l02_c04: 158061913
+      blocos2_l02_c05: -481269902
+      blocos2_l02_c06: 811934155
+      blocos2_l02_c07: -529393190
+      blocos2_l02_c08: -1395762582
+      blocos2_l02_c09: -1351516510
+      blocos2_l02_c10: -1062081828
+      blocos2_l03_c01: 1040125460
+      blocos2_l03_c02: 1139366764
+      blocos2_l03_c03: 219665326
+      blocos2_l03_c04: 1701511651
+      blocos2_l03_c05: 468960502
+      blocos2_l03_c06: -648505212
+      blocos2_l03_c07: 1687278814
+      blocos2_l03_c08: -1702079801
+      blocos2_l03_c09: -232416951
+      blocos2_l03_c10: 285045351
+      blocos2_l04_c01: 1403756167
+      blocos2_l04_c02: 1027805589
+      blocos2_l04_c03: 1846429069
+      blocos2_l04_c04: 819491264
+      blocos2_l04_c05: -533761705
+      blocos2_l04_c06: -670937625
+      blocos2_l04_c07: -1446527397
+      blocos2_l04_c08: 1159877572
+      blocos2_l04_c09: -301239727
+      blocos2_l04_c10: 1924453597
+      blocos2_l05_c01: -121211818
+      blocos2_l05_c02: -408623709
+      blocos2_l05_c03: 728724209
+      blocos2_l05_c04: -1258608106
+      blocos2_l05_c05: -213995324
+      blocos2_l05_c06: 1309614885
+      blocos2_l05_c07: 1757234356
+      blocos2_l05_c08: -663001399
+      blocos2_l05_c09: 1552674542
+      blocos2_l05_c10: 963963172
+      blocos2_l06_c01: 129672178
+      blocos2_l06_c02: -608618232
+      blocos2_l06_c03: -628672704
+      blocos2_l06_c04: -299108698
+      blocos2_l06_c05: -498203304
+      blocos2_l06_c06: 188202441
+      blocos2_l06_c07: -628986889
+      blocos2_l06_c08: 371304914
+      blocos2_l06_c09: 204773892
+      blocos2_l06_c10: -99204889
+      blocos2_l07_c01: -1385453548
+      blocos2_l07_c02: -1761842755
+      blocos2_l07_c03: -2038933616
+      blocos2_l07_c04: -1173061595
+      blocos2_l07_c05: 333755628
+      blocos2_l07_c06: 560827675
+      blocos2_l07_c07: -2031871202
+      blocos2_l07_c08: -243188364
+      blocos2_l07_c09: 5747728
+      blocos2_l07_c10: -628322315
+      blocos2_l08_c01: -514964092
+      blocos2_l08_c02: 936655905
+      blocos2_l08_c03: 2016679027
+      blocos2_l08_c04: -447603843
+      blocos2_l08_c05: 1562690774
+      blocos2_l08_c06: 93698458
+      blocos2_l08_c07: 1821756636
+      blocos2_l08_c08: -649145779
+      blocos2_l08_c09: -444204100
+      blocos2_l08_c10: -435870577
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 4AA7B6C7965AAF0E7FD5DE707038E427
+  assetBundleName: 
+  assetBundleVariant: 

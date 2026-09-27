@@ -1,0 +1,4668 @@
+fileFormatVersion: 2
+guid: b5f85391c2efff248a070fc7104933d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5404069213342440142
+    second: terreno_franjas_0
+  - first:
+      213: 6633273943305605015
+    second: terreno_franjas_1
+  - first:
+      213: -4917295344297132529
+    second: terreno_franjas_2
+  - first:
+      213: 877900915056842800
+    second: terreno_franjas_3
+  - first:
+      213: -5452927312004634804
+    second: terreno_franjas_4
+  - first:
+      213: -2288004499929823114
+    second: terreno_franjas_5
+  - first:
+      213: 1176186850804699787
+    second: terreno_franjas_6
+  - first:
+      213: -1874943953131300312
+    second: terreno_franjas_7
+  - first:
+      213: 1965886430816010580
+    second: terreno_franjas_8
+  - first:
+      213: -756599174369661581
+    second: terreno_franjas_9
+  - first:
+      213: -4309308148638224708
+    second: terreno_franjas_10
+  - first:
+      213: 2312542613032881265
+    second: terreno_franjas_11
+  - first:
+      213: 548608926107161633
+    second: terreno_franjas_12
+  - first:
+      213: 1066572999798524054
+    second: terreno_franjas_13
+  - first:
+      213: -8791294408813360433
+    second: terreno_franjas_14
+  - first:
+      213: -7656244168058162438
+    second: terreno_franjas_15
+  - first:
+      213: -6208364508961708042
+    second: terreno_franjas_16
+  - first:
+      213: 4262526187183201754
+    second: terreno_franjas_17
+  - first:
+      213: 4523567676213210224
+    second: terreno_franjas_18
+  - first:
+      213: -2012346130510397021
+    second: terreno_franjas_19
+  - first:
+      213: 1823624136666760167
+    second: terreno_franjas_20
+  - first:
+      213: -2897015098686988920
+    second: terreno_franjas_21
+  - first:
+      213: 970994664954855807
+    second: terreno_franjas_22
+  - first:
+      213: 1058618476138184105
+    second: terreno_franjas_23
+  - first:
+      213: -9199797177214589421
+    second: terreno_franjas_24
+  - first:
+      213: -6838225138164719439
+    second: terreno_franjas_25
+  - first:
+      213: 5409828447418031775
+    second: terreno_franjas_26
+  - first:
+      213: 9176348027525585933
+    second: terreno_franjas_27
+  - first:
+      213: 2414577995256380889
+    second: terreno_franjas_28
+  - first:
+      213: 5465113998857997101
+    second: terreno_franjas_29
+  - first:
+      213: -7526695412926478706
+    second: terreno_franjas_30
+  - first:
+      213: 8675611030491971030
+    second: terreno_franjas_31
+  - first:
+      213: -7840024296890165588
+    second: terreno_franjas_32
+  - first:
+      213: 376095024431925179
+    second: terreno_franjas_33
+  - first:
+      213: -6611645992781069787
+    second: terreno_franjas_34
+  - first:
+      213: 5720716206888581412
+    second: terreno_franjas_35
+  - first:
+      213: -4049320366368928816
+    second: terreno_franjas_36
+  - first:
+      213: -4139930224296907902
+    second: terreno_franjas_37
+  - first:
+      213: -2765251023180796037
+    second: terreno_franjas_38
+  - first:
+      213: -6324514847462384903
+    second: terreno_franjas_39
+  - first:
+      213: -168569562331141658
+    second: terreno_franjas_40
+  - first:
+      213: 7933708456523414500
+    second: terreno_franjas_41
+  - first:
+      213: 1205257228036710892
+    second: terreno_franjas_42
+  - first:
+      213: 1205909669699478243
+    second: terreno_franjas_43
+  - first:
+      213: -6292221302396105255
+    second: terreno_franjas_44
+  - first:
+      213: 3322670943733398057
+    second: terreno_franjas_45
+  - first:
+      213: -1054653713885814434
+    second: terreno_franjas_46
+  - first:
+      213: -3595537182665676292
+    second: terreno_franjas_47
+  - first:
+      213: -7091904997355313424
+    second: terreno_franjas_48
+  - first:
+      213: -235329463149032329
+    second: terreno_franjas_49
+  - first:
+      213: -377363372436805695
+    second: terreno_franjas_50
+  - first:
+      213: -1337602696850783386
+    second: terreno_franjas_51
+  - first:
+      213: -1117036483051724241
+    second: terreno_franjas_52
+  - first:
+      213: 3393497861004962955
+    second: terreno_franjas_53
+  - first:
+      213: 4302034869301977675
+    second: terreno_franjas_54
+  - first:
+      213: -781164640740493077
+    second: terreno_franjas_55
+  - first:
+      213: 3889384098012450374
+    second: terreno_franjas_56
+  - first:
+      213: -5801203729474982216
+    second: terreno_franjas_57
+  - first:
+      213: -435516736757754968
+    second: terreno_franjas_58
+  - first:
+      213: -4127902833390033544
+    second: terreno_franjas_59
+  - first:
+      213: -2302806577537005801
+    second: terreno_franjas_60
+  - first:
+      213: 425587931601441014
+    second: terreno_franjas_61
+  - first:
+      213: 3368393361238817259
+    second: terreno_franjas_62
+  - first:
+      213: -3634908939410339866
+    second: terreno_franjas_63
+  - first:
+      213: -7774176951647653604
+    second: terreno_franjas_64
+  - first:
+      213: 1794037392332695242
+    second: terreno_franjas_65
+  - first:
+      213: -8260676347918199371
+    second: terreno_franjas_66
+  - first:
+      213: 843572072580063646
+    second: terreno_franjas_67
+  - first:
+      213: 6538369019981257014
+    second: terreno_franjas_68
+  - first:
+      213: -1032533748801842250
+    second: terreno_franjas_69
+  - first:
+      213: -1166535584715395958
+    second: terreno_franjas_70
+  - first:
+      213: -3792824933119764816
+    second: terreno_franjas_71
+  - first:
+      213: 7416654231434937574
+    second: terreno_franjas_72
+  - first:
+      213: 404812395114306133
+    second: terreno_franjas_73
+  - first:
+      213: 3487538213828608055
+    second: terreno_franjas_74
+  - first:
+      213: -5890850879536341875
+    second: terreno_franjas_75
+  - first:
+      213: -2884564462712518007
+    second: terreno_franjas_76
+  - first:
+      213: -6614496881593381593
+    second: terreno_franjas_77
+  - first:
+      213: -4192238594784825350
+    second: terreno_franjas_78
+  - first:
+      213: 4265437627894205772
+    second: terreno_franjas_79
+  - first:
+      213: 2887622100113044703
+    second: terreno_franjas_80
+  - first:
+      213: 2419782707690526529
+    second: terreno_franjas_81
+  - first:
+      213: 6379872660462711278
+    second: terreno_franjas_82
+  - first:
+      213: 2637677014286736404
+    second: terreno_franjas_83
+  - first:
+      213: 7005378985643208734
+    second: terreno_franjas_84
+  - first:
+      213: 919842101460528720
+    second: terreno_franjas_85
+  - first:
+      213: 4806448180425614904
+    second: terreno_franjas_86
+  - first:
+      213: -5841636497004351846
+    second: terreno_franjas_87
+  - first:
+      213: -4858514060615549255
+    second: terreno_franjas_88
+  - first:
+      213: 8075208720813062271
+    second: terreno_franjas_89
+  - first:
+      213: -1449958893334227894
+    second: terreno_franjas_90
+  - first:
+      213: -7214865415962248795
+    second: terreno_franjas_91
+  - first:
+      213: 4933420903083135804
+    second: terreno_franjas_92
+  - first:
+      213: -437425247049731893
+    second: terreno_franjas_93
+  - first:
+      213: 6591405057590797398
+    second: terreno_franjas_94
+  - first:
+      213: -4901226881288500656
+    second: terreno_franjas_95
+  - first:
+      213: -5422900626897353185
+    second: terreno_franjas_96
+  - first:
+      213: 5788530834942575443
+    second: terreno_franjas_97
+  - first:
+      213: -4310593588577523837
+    second: terreno_franjas_98
+  - first:
+      213: 6646301411233971499
+    second: terreno_franjas_99
+  - first:
+      213: 3710983217350134408
+    second: terreno_franjas_100
+  - first:
+      213: 170579860015667742
+    second: terreno_franjas_101
+  - first:
+      213: 5372729611558694868
+    second: terreno_franjas_102
+  - first:
+      213: -7792133070953814532
+    second: terreno_franjas_103
+  - first:
+      213: -126067830545978689
+    second: terreno_franjas_104
+  - first:
+      213: -9172699464910920691
+    second: terreno_franjas_105
+  - first:
+      213: 6491622542841023636
+    second: terreno_franjas_106
+  - first:
+      213: -323273861552220246
+    second: terreno_franjas_107
+  - first:
+      213: -4001689432548791247
+    second: terreno_franjas_108
+  - first:
+      213: -3549706899048756537
+    second: terreno_franjas_109
+  - first:
+      213: -2513067483414839745
+    second: terreno_franjas_110
+  - first:
+      213: 6639122425110876097
+    second: terreno_franjas_111
+  - first:
+      213: 7276754918788799306
+    second: terreno_franjas_112
+  - first:
+      213: 4814582228751837509
+    second: terreno_franjas_113
+  - first:
+      213: -5861872046589681166
+    second: terreno_franjas_114
+  - first:
+      213: -657995883267676552
+    second: terreno_franjas_115
+  - first:
+      213: -3665106231102629614
+    second: terreno_franjas_116
+  - first:
+      213: -2673245776213600843
+    second: terreno_franjas_117
+  - first:
+      213: -1910408490110632697
+    second: terreno_franjas_118
+  - first:
+      213: 6252266171848466815
+    second: terreno_franjas_119
+  - first:
+      213: 6114776553590082601
+    second: terreno_franjas_120
+  - first:
+      213: -734044133113609046
+    second: terreno_franjas_121
+  - first:
+      213: 7664051010258292124
+    second: terreno_franjas_122
+  - first:
+      213: 6906180747527095080
+    second: terreno_franjas_123
+  - first:
+      213: 6506748147078107783
+    second: terreno_franjas_124
+  - first:
+      213: 6813823876726851909
+    second: terreno_franjas_125
+  - first:
+      213: -6404815420573153307
+    second: terreno_franjas_126
+  - first:
+      213: -1949049071313079183
+    second: terreno_franjas_127
+  - first:
+      213: -2214906597242392843
+    second: terreno_franjas_128
+  - first:
+      213: 3499772443959732503
+    second: terreno_franjas_129
+  - first:
+      213: -8649721002644459467
+    second: terreno_franjas_130
+  - first:
+      213: 3555425783621320792
+    second: terreno_franjas_131
+  - first:
+      213: -7437799900220941573
+    second: terreno_franjas_132
+  - first:
+      213: -5615908440040178796
+    second: terreno_franjas_133
+  - first:
+      213: 7421334270587208243
+    second: terreno_franjas_134
+  - first:
+      213: 6035730332391442813
+    second: terreno_franjas_135
+  - first:
+      213: -6930745552813154431
+    second: terreno_franjas_136
+  - first:
+      213: -8834715514715163004
+    second: terreno_franjas_137
+  - first:
+      213: -8930518252405600802
+    second: terreno_franjas_138
+  - first:
+      213: 3900553618190323599
+    second: terreno_franjas_139
+  - first:
+      213: 6152482540420787282
+    second: terreno_franjas_140
+  - first:
+      213: 8812716404248461268
+    second: terreno_franjas_141
+  - first:
+      213: -4755772377597598260
+    second: terreno_franjas_142
+  - first:
+      213: -7861032166914049964
+    second: terreno_franjas_143
+  - first:
+      213: -8670293976548640959
+    second: terreno_franjas_144
+  - first:
+      213: -5224335272050101627
+    second: terreno_franjas_145
+  - first:
+      213: 5605442174099095860
+    second: terreno_franjas_146
+  - first:
+      213: 8581921524313602626
+    second: terreno_franjas_147
+  - first:
+      213: -7107539947718003294
+    second: terreno_franjas_148
+  - first:
+      213: 4940005116565432313
+    second: terreno_franjas_149
+  - first:
+      213: 1148216335934722289
+    second: terreno_franjas_150
+  - first:
+      213: 3337726316728746314
+    second: terreno_franjas_151
+  - first:
+      213: 2760446209573159932
+    second: terreno_franjas_152
+  - first:
+      213: -3921382320169680001
+    second: terreno_franjas_153
+  - first:
+      213: -2642219283938827821
+    second: terreno_franjas_154
+  - first:
+      213: -1001825489157169403
+    second: terreno_franjas_155
+  - first:
+      213: 2830421450036409749
+    second: terreno_franjas_156
+  - first:
+      213: 3688859418700589897
+    second: terreno_franjas_157
+  - first:
+      213: -54198930544719986
+    second: terreno_franjas_158
+  - first:
+      213: -7588489973258702146
+    second: terreno_franjas_159
+  - first:
+      213: 1512117689009417253
+    second: terreno_franjas_160
+  - first:
+      213: -3134746857730106475
+    second: terreno_franjas_161
+  - first:
+      213: -4101323307163256754
+    second: terreno_franjas_162
+  - first:
+      213: 8647155014343715554
+    second: terreno_franjas_163
+  - first:
+      213: -6122973204322456738
+    second: terreno_franjas_164
+  - first:
+      213: 8882853383374823461
+    second: terreno_franjas_165
+  - first:
+      213: -3101778755612412263
+    second: terreno_franjas_166
+  - first:
+      213: 7169102275680902679
+    second: terreno_franjas_167
+  - first:
+      213: -9104345204795244839
+    second: terreno_franjas_168
+  - first:
+      213: -8972758515371292086
+    second: terreno_franjas_169
+  - first:
+      213: -732170877015848249
+    second: terreno_franjas_170
+  - first:
+      213: 359497068609407673
+    second: terreno_franjas_171
+  - first:
+      213: -8503728418444179030
+    second: terreno_franjas_172
+  - first:
+      213: -4628713140456016093
+    second: terreno_franjas_173
+  - first:
+      213: 4367043232991398351
+    second: terreno_franjas_174
+  - first:
+      213: 7367793262582552830
+    second: terreno_franjas_175
+  - first:
+      213: 518599425039406424
+    second: terreno_franjas_176
+  - first:
+      213: 1776524435376753272
+    second: terreno_franjas_177
+  - first:
+      213: 3730154199742366661
+    second: terreno_franjas_178
+  - first:
+      213: 2611994154815957695
+    second: terreno_franjas_179
+  - first:
+      213: 3105810298701667524
+    second: terreno_franjas_180
+  - first:
+      213: 3796608103047596296
+    second: terreno_franjas_181
+  - first:
+      213: 935243254700183756
+    second: terreno_franjas_182
+  - first:
+      213: -3184619560756610128
+    second: terreno_franjas_183
+  - first:
+      213: 1081883837279027654
+    second: terreno_franjas_184
+  - first:
+      213: -563533692261480352
+    second: terreno_franjas_185
+  - first:
+      213: -1856855080821569413
+    second: terreno_franjas_186
+  - first:
+      213: 1981591051215791069
+    second: terreno_franjas_187
+  - first:
+      213: -8855180823523369434
+    second: terreno_franjas_188
+  - first:
+      213: -1961298471149593995
+    second: terreno_franjas_189
+  - first:
+      213: 4625753433810183924
+    second: terreno_franjas_190
+  - first:
+      213: 4946432469844826888
+    second: terreno_franjas_191
+  - first:
+      213: 7112877251676456832
+    second: terreno_franjas_192
+  - first:
+      213: 4271476762021821216
+    second: terreno_franjas_193
+  - first:
+      213: -3786117064551718619
+    second: terreno_franjas_194
+  - first:
+      213: 7160377980440202652
+    second: terreno_franjas_195
+  - first:
+      213: -2164072410442081573
+    second: terreno_franjas_196
+  - first:
+      213: 6116401942694254865
+    second: terreno_franjas_197
+  - first:
+      213: 1662299538608041721
+    second: terreno_franjas_198
+  - first:
+      213: -3079939285952754119
+    second: terreno_franjas_199
+  - first:
+      213: 7247937961905433047
+    second: terreno_franjas_200
+  - first:
+      213: 756666805305144331
+    second: terreno_franjas_201
+  - first:
+      213: 312846607065093261
+    second: terreno_franjas_202
+  - first:
+      213: -3210011109827141983
+    second: terreno_franjas_203
+  - first:
+      213: 8549712024751161641
+    second: terreno_franjas_204
+  - first:
+      213: 3423787278962529978
+    second: terreno_franjas_205
+  - first:
+      213: 5265210981787605031
+    second: terreno_franjas_206
+  - first:
+      213: 7408154747054797175
+    second: terreno_franjas_207
+  - first:
+      213: 2008985066622439557
+    second: terreno_franjas_208
+  - first:
+      213: 6112728062678826054
+    second: terreno_franjas_209
+  - first:
+      213: 3336796520531945566
+    second: terreno_franjas_210
+  - first:
+      213: 1116273779980228005
+    second: terreno_franjas_211
+  - first:
+      213: 4987020829066104809
+    second: terreno_franjas_212
+  - first:
+      213: -127130812724790928
+    second: terreno_franjas_213
+  - first:
+      213: -2543190747295868196
+    second: terreno_franjas_214
+  - first:
+      213: -5251028207044691088
+    second: terreno_franjas_215
+  - first:
+      213: -7917201879194588194
+    second: terreno_franjas_216
+  - first:
+      213: -2608374927636831058
+    second: terreno_franjas_217
+  - first:
+      213: -1325240774104282564
+    second: terreno_franjas_218
+  - first:
+      213: 4873858975023435264
+    second: terreno_franjas_219
+  - first:
+      213: -721794120000559712
+    second: terreno_franjas_220
+  - first:
+      213: -6584865442804278913
+    second: terreno_franjas_221
+  - first:
+      213: 178939693271853564
+    second: terreno_franjas_222
+  - first:
+      213: 3917413734227265790
+    second: terreno_franjas_223
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: terra_franja_n_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115538b55dcb96754695c35820042138
+      internalID: -1575080674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_franja_n_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65aac6ff15a698e7dbdfde8f234477f1
+      internalID: -27580716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_franja_s_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab9067a0b1ed3e50cc4d9dc65b6439a
+      internalID: -1360991424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_franja_s_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fef6084d123f53faed8447d949daffe
+      internalID: -535099967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_franja_ns_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ab2ab662ce0bf0b19b83feb77acdff
+      internalID: -559364518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_franja_ns_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160a0be14c2192d51c42b0481514392d
+      internalID: -2108887147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_franja_l_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4bf5885294082b6555adb95bdba0a7
+      internalID: 1881410479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_franja_l_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89c40b4c2644ca58e56d9572a3b1a42
+      internalID: 294071760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_franja_o_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b01cd56debdbaf01cac4669de545d80
+      internalID: 57538195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_franja_o_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d359f002face69f4d84bf5f696a50fa
+      internalID: 1703434823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_franja_lo_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be129d402c3caa3f9ef877a4629a0da2
+      internalID: -1875903482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_franja_lo_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d164ed9bf38d33d2c1543ffcf80f81
+      internalID: -1168824658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_escura_franja_n_0
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac70340b4a2427948a507f4e648fcd50
+      internalID: 999578632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_escura_franja_n_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc450ac0a859fba7d5efc5287844394
+      internalID: -1369913536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_escura_franja_s_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb18a1c06af8b279ae4b12ab54b3c3a
+      internalID: -2057471087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_escura_franja_s_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea30c61a53adf2aaa3de8785892b630
+      internalID: 9748211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_escura_franja_ns_0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a090669a9bb45fdd36bf1c2922ab303
+      internalID: -403707433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_escura_franja_ns_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5ea114ab6fb7a13d71350e2035e520
+      internalID: 571947019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_escura_franja_l_0
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eca2fc562d413841de9ecb1c87e1886
+      internalID: -695991230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_escura_franja_l_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ca5db395a34e12c2a56d7220e922b9
+      internalID: 474643638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_escura_franja_o_0
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706f6a97936224cf7fc5c91e9ad260aa
+      internalID: 318508800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_escura_franja_o_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffed3d14983a104071a0828f332fe457
+      internalID: 1680140498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_escura_franja_lo_0
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca9a975c71428641aebc73e600536a3
+      internalID: -600829179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra_escura_franja_lo_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a980f97da835b92c34262d0dddb41e3
+      internalID: -389533502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_franja_n_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee26f3c6f50c515c4d86ca016ee76c60
+      internalID: 683145739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_franja_n_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e66c8e4ad7d747ad2208d856eea53e
+      internalID: -1633686292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_franja_s_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a88140364483fe80699bb8032e46c20
+      internalID: -79833760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_franja_s_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa20cb82607998d2cb08c4f4b3c3d4ab
+      internalID: 1358969538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_franja_ns_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76679148974efc0969d195c20d88c68f
+      internalID: -1110288116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_franja_ns_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f182e408ef95994dc2869c32c765e93
+      internalID: 683661429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_franja_l_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e159460ddc21eaef3103405fa20c7bb5
+      internalID: -432244858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_franja_l_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f211c27764f377b69231153452469a7b
+      internalID: -264342515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_franja_o_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f760777f03327238a84ad183e7996742
+      internalID: -875058185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_franja_o_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4354212cf322b07e49127cb049fb01c
+      internalID: 1891876636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_franja_lo_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d165b2e8d38eb659d00354e225f016
+      internalID: -1641263662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_franja_lo_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e33a2a30991c0cf8ddac4f1999bdb09
+      internalID: -1909354340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cascalho_franja_n_0
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74910d08b6416f8bcf7732957d2a6fb
+      internalID: 362304278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cascalho_franja_n_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9393643a63de17aaf6f22dc9c3813e8
+      internalID: 1068517363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cascalho_franja_s_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c970faaf5ff365a16518f3cdbf62fd7
+      internalID: -1385709473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cascalho_franja_s_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6aca9bec75b9c989a198c905704aab
+      internalID: -1003016620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cascalho_franja_ns_0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23976abffa18fc73bfe755a0d5f9b82c
+      internalID: -366437489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cascalho_franja_ns_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619266ca8402916638e1cf599596ebc4
+      internalID: 1395082720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cascalho_franja_l_0
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6c156799c6f8092f4163ad19e67bb5
+      internalID: -1339574437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cascalho_franja_l_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bd8165397ad1037435bd722f5f765d
+      internalID: 1459021631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cascalho_franja_o_0
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9880463a638a004b92557b04b3c755
+      internalID: -103932082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cascalho_franja_o_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bba6e96ddc586d631518bf90cbfec9b
+      internalID: -1499689763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cascalho_franja_lo_0
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd75acc0d8b3e6d34e4c7ab54643764
+      internalID: -1585399557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cascalho_franja_lo_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03f06f30c60bc71260d060a63b11e46
+      internalID: 2129728637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_profunda_franja_n_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18322229c85a4fc5836a4d97eb465a50
+      internalID: -2003776881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_profunda_franja_n_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a3f69644e9d2ef775c5e4d7171ac10
+      internalID: 345550241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_profunda_franja_s_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e7974f35e16969443f47d710fdd4bb
+      internalID: 1689368376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_profunda_franja_s_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3123dbd63f1d7f0d9811c955fd45c900
+      internalID: 1999087942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_profunda_franja_ns_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e080f2105fbf26cf73ffdc0b7859b5
+      internalID: -1775456972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_profunda_franja_ns_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d087ad859104bd673e1695a3b9e8b0
+      internalID: 1279741263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_profunda_franja_l_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda4fbf0db731e2d6b331d984ad6214a
+      internalID: -1293965768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_profunda_franja_l_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924b22baff17d73a497228813999f163
+      internalID: -1819931667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_profunda_franja_o_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a932e4bc5a1278da6c45b1260832bdb2
+      internalID: 1050746089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_profunda_franja_o_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965850bdaacccf14cf7b66c7d9b28181
+      internalID: -2025927458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_profunda_franja_lo_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e398ab69d9ccd3144f1f16e6e76f1f6c
+      internalID: -712029583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_profunda_franja_lo_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e515d14e37ece63a106167a5169dc08a
+      internalID: 932872081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cristal_franja_n_0
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb22f0f59d273c6cf8aa757fa6f77a62
+      internalID: 1319503459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cristal_franja_n_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569abae128e22de259690e5e7f077c74
+      internalID: 1266083933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cristal_franja_s_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d736c49a1da3c908ab3bb40e44fd9896
+      internalID: 1252735470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cristal_franja_s_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61371b7954a3dc58a51ce35f508f6509
+      internalID: 1309926404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cristal_franja_ns_0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675f2925c18d4affcd1f8daea5c753cc
+      internalID: 1822711092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cristal_franja_ns_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a571f4d48077b379477970158f8337
+      internalID: 1897972588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cristal_franja_l_0
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e44378c8e68fe59d757de4b3b485c6f
+      internalID: 1456944546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cristal_franja_l_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad53ba109c1864dc523885c6184fc955
+      internalID: -435240205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cristal_franja_o_0
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4802354790947f080aabd8014be1fc7
+      internalID: 919933661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cristal_franja_o_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9af8b3bf6e6a92186400b2c736a697
+      internalID: -508370118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cristal_franja_lo_0
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f29d288a8a9444ebaa55d6394e7a30
+      internalID: -1000479048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cristal_franja_lo_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5698ca3e53635eb5294dfb9db155fd8d
+      internalID: -1094577403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerio_cristal_franja_n_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e550bc3f44aabbfb1c6a796e9fa7355a
+      internalID: -121351450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerio_cristal_franja_n_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55eee9f1185e33e09114daaee76d904
+      internalID: -427438895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerio_cristal_franja_s_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d98d2c5a68e3a089a4d36e51ec1431
+      internalID: -1963186534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerio_cristal_franja_s_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9812071b9629795a147a6757859f32
+      internalID: -925691481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerio_cristal_franja_ns_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25be37f69118a9c327ca9800a4cca0a4
+      internalID: -1640354069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerio_cristal_franja_ns_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efb634e85c6e7466593eda27fd097ea
+      internalID: 1676480697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerio_cristal_franja_l_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c046327cb607c348bc66245ae238f03
+      internalID: -1573932826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerio_cristal_franja_l_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02c4eed8bf27ffaeab0a6daee29f186
+      internalID: 1672714306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerio_cristal_franja_o_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7d274bcac3941c49080b8642e57062
+      internalID: 1084787066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerio_cristal_franja_o_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b01dc48c3f6d9f69b0a0ecd4a3b24b7
+      internalID: -261449100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerio_cristal_franja_lo_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eec7a3b4a6afa6d6fbb187656409f2
+      internalID: -13676688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerio_cristal_franja_lo_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a9d7d602354130a1eccea38a9ae2a5
+      internalID: 1387980668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobre_franja_n_0
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2caf040e45455a289de9e6dbc49ec5a
+      internalID: -1768374303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobre_franja_n_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fbca7652a428275bdb2cbb25144b99
+      internalID: 1609190721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobre_franja_s_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d084513377cdbd0b8a189b67cf1a1829
+      internalID: 211581802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobre_franja_s_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd6575d038bef8639b052e03c0b5073
+      internalID: -2031194250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobre_franja_ns_0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72fc568476e0a7f1f1230c300c2c1f1
+      internalID: 432257685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobre_franja_ns_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9519d705dbf587aa2ba77d057ebdf25b
+      internalID: 1134753285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobre_franja_l_0
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea6c57dd873b8b0b8ed713106916a5d
+      internalID: -1370433839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobre_franja_l_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52e2eacc0201cef0d8c85f11f0316d3
+      internalID: -664489169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobre_franja_o_0
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db7f518fd12771c01f260beb3b7ad48
+      internalID: 1239285058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobre_franja_o_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e821ce62671f9f8f0d920e47cf0f2e0b
+      internalID: -839988564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobre_franja_lo_0
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52efcd3159afa52509fb374b908d1a73
+      internalID: 1813091949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobre_franja_lo_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 55
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7433b3b18575c0a73eb4595485fc78
+      internalID: -907275885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prata_franja_n_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37ec2afb4bbd79399d79ee4e830f20c
+      internalID: -1268612898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prata_franja_n_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70956165bb3b57328e519087c3027375
+      internalID: 539041108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prata_franja_s_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742e6e8bc11b67351db25d7feb92bd73
+      internalID: 400017980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prata_franja_s_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acba32dd2e1f166a2d23744b81c34da
+      internalID: -2044176523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prata_franja_ns_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308741d1e1895939160ebc4c6804805f
+      internalID: -820963790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prata_franja_ns_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929f95e01655c62358c9cf42de4eee0b
+      internalID: 792932096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prata_franja_l_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fbc490e43a9b525bfe8bf02e7c1e6a
+      internalID: 391663131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prata_franja_l_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33106fd5101790d963c6d765eb7c6913
+      internalID: -2080317770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prata_franja_o_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5913711788c8d43f9e608361e4c8f77
+      internalID: -1134061737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prata_franja_o_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38499c7e3263bee5483d74271b12af35
+      internalID: 1443694913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prata_franja_lo_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97697250ee59ac1c018e2a2008b83bc
+      internalID: 1806180432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prata_franja_lo_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df562c762fc331f39eec0f5c401b8644
+      internalID: 1535886858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouro_franja_n_0
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b24ee2c51a5c75eaa112c329dcd8523
+      internalID: 1271736626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouro_franja_n_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6907fae2b72ee3a99eadd732c20dc33c
+      internalID: -795121404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouro_franja_s_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1761b0858807c5a7606a95cb593ed305
+      internalID: 13935966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouro_franja_s_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a973b1d0dbc5dee9397fbeeb1e9ec7
+      internalID: -691173187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouro_franja_ns_0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b93bf45d076ec673d406417a6dfbeb
+      internalID: -66724396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouro_franja_ns_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbed7ee06acf2fd15a1c7359d5735e0
+      internalID: -924602670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouro_franja_l_0
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc154f8081528cb85f66cc4c87d0cf7
+      internalID: 1287442805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouro_franja_l_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1daced5edb861f94324c4240415129
+      internalID: 5429502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouro_franja_o_0
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d317edf06bc9ca1575f6ae2d00c88dbd
+      internalID: -772767964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouro_franja_o_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58189032f4f1a81da36b5e478444dfc
+      internalID: 1322514792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouro_franja_lo_0
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b9e4cf4fe2ff234e8c1e797d5d7620
+      internalID: -1579357701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouro_franja_lo_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 37
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f2f0ad723557cd9c422f8a527884c5
+      internalID: 670693111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vazio_franja_n_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba49fabbaf86e80ff4d2171d0381651e
+      internalID: 1626645686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vazio_franja_n_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1642e4121b3faacc671297d10cd5221d
+      internalID: 266590034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vazio_franja_s_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630b7a2d1a8a5a1633bfc66251fd3a4d
+      internalID: 2022152885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vazio_franja_s_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e92978bd29a8c61ebbc1e7f9da66d5
+      internalID: -453843151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vazio_franja_ns_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aac26c2b2579348aeddf904ba29fda2
+      internalID: 815860362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vazio_franja_ns_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633a2628f49e04e5a060a188cec64743
+      internalID: -994922201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vazio_franja_l_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94704179aeac048ff80436f28f41ea1
+      internalID: 2052852836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vazio_franja_l_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77154fdd26b51748b23689257b7d095
+      internalID: -1383966829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vazio_franja_o_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f40a271a84e25d315900d1a5cc3dac
+      internalID: 932664581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vazio_franja_o_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cdce2628d3cf022d3065fed43dd757
+      internalID: -1783225514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vazio_franja_lo_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ba022d30c4c9106413780423768bd2
+      internalID: 245711478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vazio_franja_lo_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88450557719617d9ff49b4bacb0da507
+      internalID: 371223456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: areia_franja_n_0
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4622881efb34c54763a6f380296f94
+      internalID: 1875808229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: areia_franja_n_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01b88787d75985c22cd9df91da853a0
+      internalID: -1834290139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: areia_franja_s_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e81e85fa42319a04ddcd61de347199
+      internalID: -1018666699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: areia_franja_s_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62849f13fd74e1b42645f3abfe86378f
+      internalID: 1411868284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: areia_franja_ns_0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c7f6da4e5f4b592bb44c83b52cab79
+      internalID: -1043197237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: areia_franja_ns_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef88bdcc4ff61690e1c6cd0bb86afa50
+      internalID: -1415789073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: areia_franja_l_0
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d3845f3e5eeb214961517691ff26b7
+      internalID: 1840183409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: areia_franja_l_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90b3fb230e07956072c4cd0b4234c72
+      internalID: -1934425034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: areia_franja_o_0
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3544aec28807dc9e04b0a878b8f82d11
+      internalID: -161582756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: areia_franja_o_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b64c6069623d4ffb0f65bc5dbfbb04
+      internalID: -1236419820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: areia_franja_lo_0
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d368b660f510be896e35834bbd8d8a9d
+      internalID: 246551059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: areia_franja_lo_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 19
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ffbf1ce5662a175479f1645599db8b
+      internalID: -2125502077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vulcanica_franja_n_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e67ed6a1f0f952a91bda7173750bf66
+      internalID: -373172734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vulcanica_franja_n_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2a627127d0c6e8f757cec0baab1fc8
+      internalID: -1051984639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vulcanica_franja_s_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b9897820d86ac736e80aa0e88b0bcd
+      internalID: -246060376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vulcanica_franja_s_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a48c4e8bd8b2a9788fd59c82571307
+      internalID: -98653929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vulcanica_franja_ns_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b44b500f6ee178d9e6bd5357a51d13
+      internalID: -1828005176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vulcanica_franja_ns_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015e382f9ff2ea78ae8305b111785807
+      internalID: 898556642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vulcanica_franja_l_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd2bff7b24152368f6c741af52eff7a
+      internalID: -1531399486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vulcanica_franja_l_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7282c377ad4896c67c7c8769b3daa7aa
+      internalID: 1304667993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vulcanica_franja_o_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1fcd358692f6234e1994f759f3822f
+      internalID: -1988218370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vulcanica_franja_o_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad2e9d58220b9af56dae39374543fe5
+      internalID: -738578948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vulcanica_franja_lo_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0517fdfdf04b6f2a9b00a6d0e1d5dd5
+      internalID: -1328279887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vulcanica_franja_lo_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0a527f540de0097552e2e25fa815f7
+      internalID: -653732061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_musgosa_franja_n_0
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab7c2043d531fa6f9df0a1a45e86307
+      internalID: -1486017120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_musgosa_franja_n_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24744abf17d1f4e8b626c7cc2ab3d5ea
+      internalID: -1561382826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_musgosa_franja_s_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250930527205cf574a6cff1cd72f18bc
+      internalID: 2038674900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_musgosa_franja_s_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5300a4af9892657005eddea2c6603d
+      internalID: -787907184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_musgosa_franja_ns_0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8243b3661ff0bc66bbb3fee9e3c1bf5d
+      internalID: -1024034504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_musgosa_franja_ns_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae2496a5b17f7db4e1a527b35ba68cb
+      internalID: 2002272603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_musgosa_franja_l_0
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486a0dde0d960652e8a0760983de61a8
+      internalID: 1028885482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_musgosa_franja_l_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e33868acbfae634949e1286b154d93
+      internalID: -1587868055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_musgosa_franja_o_0
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48798ec43c9aa5c3f933e81aaa4f578
+      internalID: 64181362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_musgosa_franja_o_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b13649d4e07ad8943330d4d21140b2
+      internalID: -1837194327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_musgosa_franja_lo_0
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c597239c9d30cb9f2850f50c8a9f5f
+      internalID: 1392048871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedra_musgosa_franja_lo_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7410c21a46220e655137c71ff017f527
+      internalID: -2096748639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3b69d25dcc9bea941922a666b0662c0c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      areia_franja_l_0: 1840183409
+      areia_franja_l_1: -1934425034
+      areia_franja_lo_0: 246551059
+      areia_franja_lo_1: -2125502077
+      areia_franja_n_0: 1875808229
+      areia_franja_n_1: -1834290139
+      areia_franja_ns_0: -1043197237
+      areia_franja_ns_1: -1415789073
+      areia_franja_o_0: -161582756
+      areia_franja_o_1: -1236419820
+      areia_franja_s_0: -1018666699
+      areia_franja_s_1: 1411868284
+      cascalho_franja_l_0: -1339574437
+      cascalho_franja_l_1: 1459021631
+      cascalho_franja_lo_0: -1585399557
+      cascalho_franja_lo_1: 2129728637
+      cascalho_franja_n_0: 362304278
+      cascalho_franja_n_1: 1068517363
+      cascalho_franja_ns_0: -366437489
+      cascalho_franja_ns_1: 1395082720
+      cascalho_franja_o_0: -103932082
+      cascalho_franja_o_1: -1499689763
+      cascalho_franja_s_0: -1385709473
+      cascalho_franja_s_1: -1003016620
+      cobre_franja_l_0: -1370433839
+      cobre_franja_l_1: -664489169
+      cobre_franja_lo_0: 1813091949
+      cobre_franja_lo_1: -907275885
+      cobre_franja_n_0: -1768374303
+      cobre_franja_n_1: 1609190721
+      cobre_franja_ns_0: 432257685
+      cobre_franja_ns_1: 1134753285
+      cobre_franja_o_0: 1239285058
+      cobre_franja_o_1: -839988564
+      cobre_franja_s_0: 211581802
+      cobre_franja_s_1: -2031194250
+      cristal_franja_l_0: 1456944546
+      cristal_franja_l_1: -435240205
+      cristal_franja_lo_0: -1000479048
+      cristal_franja_lo_1: -1094577403
+      cristal_franja_n_0: 1319503459
+      cristal_franja_n_1: 1266083933
+      cristal_franja_ns_0: 1822711092
+      cristal_franja_ns_1: 1897972588
+      cristal_franja_o_0: 919933661
+      cristal_franja_o_1: -508370118
+      cristal_franja_s_0: 1252735470
+      cristal_franja_s_1: 1309926404
+      minerio_cristal_franja_l_0: -1573932826
+      minerio_cristal_franja_l_1: 1672714306
+      minerio_cristal_franja_lo_0: -13676688
+      minerio_cristal_franja_lo_1: 1387980668
+      minerio_cristal_franja_n_0: -121351450
+      minerio_cristal_franja_n_1: -427438895
+      minerio_cristal_franja_ns_0: -1640354069
+      minerio_cristal_franja_ns_1: 1676480697
+      minerio_cristal_franja_o_0: 1084787066
+      minerio_cristal_franja_o_1: -261449100
+      minerio_cristal_franja_s_0: -1963186534
+      minerio_cristal_franja_s_1: -925691481
+      ouro_franja_l_0: 1287442805
+      ouro_franja_l_1: 5429502
+      ouro_franja_lo_0: -1579357701
+      ouro_franja_lo_1: 670693111
+      ouro_franja_n_0: 1271736626
+      ouro_franja_n_1: -795121404
+      ouro_franja_ns_0: -66724396
+      ouro_franja_ns_1: -924602670
+      ouro_franja_o_0: -772767964
+      ouro_franja_o_1: 1322514792
+      ouro_franja_s_0: 13935966
+      ouro_franja_s_1: -691173187
+      pedra_franja_l_0: -432244858
+      pedra_franja_l_1: -264342515
+      pedra_franja_lo_0: -1641263662
+      pedra_franja_lo_1: -1909354340
+      pedra_franja_n_0: 683145739
+      pedra_franja_n_1: -1633686292
+      pedra_franja_ns_0: -1110288116
+      pedra_franja_ns_1: 683661429
+      pedra_franja_o_0: -875058185
+      pedra_franja_o_1: 1891876636
+      pedra_franja_s_0: -79833760
+      pedra_franja_s_1: 1358969538
+      pedra_musgosa_franja_l_0: 1028885482
+      pedra_musgosa_franja_l_1: -1587868055
+      pedra_musgosa_franja_lo_0: 1392048871
+      pedra_musgosa_franja_lo_1: -2096748639
+      pedra_musgosa_franja_n_0: -1486017120
+      pedra_musgosa_franja_n_1: -1561382826
+      pedra_musgosa_franja_ns_0: -1024034504
+      pedra_musgosa_franja_ns_1: 2002272603
+      pedra_musgosa_franja_o_0: 64181362
+      pedra_musgosa_franja_o_1: -1837194327
+      pedra_musgosa_franja_s_0: 2038674900
+      pedra_musgosa_franja_s_1: -787907184
+      pedra_profunda_franja_l_0: -1293965768
+      pedra_profunda_franja_l_1: -1819931667
+      pedra_profunda_franja_lo_0: -712029583
+      pedra_profunda_franja_lo_1: 932872081
+      pedra_profunda_franja_n_0: -2003776881
+      pedra_profunda_franja_n_1: 345550241
+      pedra_profunda_franja_ns_0: -1775456972
+      pedra_profunda_franja_ns_1: 1279741263
+      pedra_profunda_franja_o_0: 1050746089
+      pedra_profunda_franja_o_1: -2025927458
+      pedra_profunda_franja_s_0: 1689368376
+      pedra_profunda_franja_s_1: 1999087942
+      prata_franja_l_0: 391663131
+      prata_franja_l_1: -2080317770
+      prata_franja_lo_0: 1806180432
+      prata_franja_lo_1: 1535886858
+      prata_franja_n_0: -1268612898
+      prata_franja_n_1: 539041108
+      prata_franja_ns_0: -820963790
+      prata_franja_ns_1: 792932096
+      prata_franja_o_0: -1134061737
+      prata_franja_o_1: 1443694913
+      prata_franja_s_0: 400017980
+      prata_franja_s_1: -2044176523
+      terra_escura_franja_l_0: -695991230
+      terra_escura_franja_l_1: 474643638
+      terra_escura_franja_lo_0: -600829179
+      terra_escura_franja_lo_1: -389533502
+      terra_escura_franja_n_0: 999578632
+      terra_escura_franja_n_1: -1369913536
+      terra_escura_franja_ns_0: -403707433
+      terra_escura_franja_ns_1: 571947019
+      terra_escura_franja_o_0: 318508800
+      terra_escura_franja_o_1: 1680140498
+      terra_escura_franja_s_0: -2057471087
+      terra_escura_franja_s_1: 9748211
+      terra_franja_l_0: 1881410479
+      terra_franja_l_1: 294071760
+      terra_franja_lo_0: -1875903482
+      terra_franja_lo_1: -1168824658
+      terra_franja_n_0: -1575080674
+      terra_franja_n_1: -27580716
+      terra_franja_ns_0: -559364518
+      terra_franja_ns_1: -2108887147
+      terra_franja_o_0: 57538195
+      terra_franja_o_1: 1703434823
+      terra_franja_s_0: -1360991424
+      terra_franja_s_1: -535099967
+      vazio_franja_l_0: 2052852836
+      vazio_franja_l_1: -1383966829
+      vazio_franja_lo_0: 245711478
+      vazio_franja_lo_1: 371223456
+      vazio_franja_n_0: 1626645686
+      vazio_franja_n_1: 266590034
+      vazio_franja_ns_0: 815860362
+      vazio_franja_ns_1: -994922201
+      vazio_franja_o_0: 932664581
+      vazio_franja_o_1: -1783225514
+      vazio_franja_s_0: 2022152885
+      vazio_franja_s_1: -453843151
+      vulcanica_franja_l_0: -1531399486
+      vulcanica_franja_l_1: 1304667993
+      vulcanica_franja_lo_0: -1328279887
+      vulcanica_franja_lo_1: -653732061
+      vulcanica_franja_n_0: -373172734
+      vulcanica_franja_n_1: -1051984639
+      vulcanica_franja_ns_0: -1828005176
+      vulcanica_franja_ns_1: 898556642
+      vulcanica_franja_o_0: -1988218370
+      vulcanica_franja_o_1: -738578948
+      vulcanica_franja_s_0: -246060376
+      vulcanica_franja_s_1: -98653929
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 2654693D73963051648B3A552A7C13A8
+  assetBundleName: 
+  assetBundleVariant: 
